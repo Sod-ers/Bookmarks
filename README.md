@@ -1,4 +1,4 @@
-
+%%  %%
 ```table-of-contents
 ```
 ### Table of Contents:
@@ -8,9 +8,73 @@
 | [Linux](https://github.com/Sod-ers/Bookmarks#linux)         |
 | [Windows](https://github.com/Sod-ers/Bookmarks#windows)     |
 ### Resources:
-| Description: | Website: |
-| ------------ | -------- |
-|              |          |
+| Description:                                                                  | Website:                                                                                            |
+| ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| A curated list of awesome lists.                                              | https://github.com/t3chnoboy/awesome-awesome-awesome                                                |
+| A multi‐source seeder for digital releases for MusicBrainz.                   | https://atisket.pulsewidth.org.uk/                                                                  |
+| Adobe URL/IP block list for the host file.                                    | https://github.com/Ruddernation-Designs/Adobe-URL-Block-List                                        |
+| High quality album art.                                                       | https://www.albumartexchange.com/                                                                   |
+| Find alternatives to software.                                                | https://alternativeto.net/                                                                          |
+| Check your browser fingerprint.                                               | https://amiunique.org/                                                                              |
+| A tool for automatically equalizing headphones.                               | https://autoeq.app/                                                                                 |
+| Change scrollbar width in Chrome & Firefox                                    | https://www.thewindowsclub.com/how-to-change-scrollbar-width-in-chrome-and-firefox?expand_article=1 |
+| Chiefs Big List of Programs                                                   | https://github.com/TheChiefMeat/Chiefs-Big-List-of-Programs                                         |
+| Chromecast browser app.                                                       | https://chromecast.link/                                                                            |
+| Web multimedia downloader.                                                    | https://cobalt.tools/                                                                               |
+| Interactive cursor test.                                                      | https://vibhorjaiswal.github.io/Cursor-Test/                                                        |
+| Unofficial Discord lookup tool.                                               | https://discord.id/                                                                                 |
+| Generate a fake identity.                                                     | https://www.fakenamegenerator.com/                                                                  |
+| Disc/vinyl art.                                                               | https://fanart.tv/                                                                                  |
+| Favicon downloader.                                                           | https://onlineminitools.com/website-favicon-downloader                                              |
+| Firefox hardening guide.                                                      | https://brainfucksec.github.io/firefox-hardening-guide                                              |
+| A community based on finding & sharing free games.                            | https://steamcommunity.com/groups/freegamesfinders                                                  |
+| Free media guides.                                                            | https://github.com/fmhy/FMHY                                                                        |
+| Turns shortened RSS feeds into feeds with full articles.                      | https://morss.it/                                                                                   |
+| Gamepad tester.                                                               | https://greggman.github.io/html5-gamepad-test/                                                      |
+| Simple online .ico image converter.                                           | https://www.icoconverter.com/                                                                       |
+| Free icons.                                                                   | https://iconarchive.com/                                                                            |
+| OSINT tools.                                                                  | https://inteltechniques.com/tools/index.html                                                        |
+| How to make custom iPhone ringtones/notification sounds.                      | https://www.reddit.com/r/iphone/comments/wc11ge/iphone_tip_how_to_make_custom_iphone/               |
+| Download high quality artwork directly from iTunes.                           | https://bendodson.com/projects/itunes-artwork-finder/                                               |
+| Hosts file to block unwanted connections systematically.                      | https://someonewhocares.org/hosts/                                                                  |
+| Easily make animated emojis.                                                  | https://makeemoji.com/                                                                              |
+| Minecraft disable tutorial.                                                   | https://gaming.stackexchange.com/questions/318331/minecraft-1-12-turn-off-tutorial-instructions     |
+| Curated list of awesome links, resources & tools on infosec related topics.   | https://github.com/pe3zx/my-infosec-awesome                                                         |
+| Collection of OSINT resources & tools.                                        | https://ohshint.gitbook.io/oh-shint-its-a-blog                                                      |
+| Collection of OSINT resources & tools.                                        | https://osintframework.com/                                                                         |
+| Check if games play on Linux.                                                 | https://www.protondb.com/                                                                           |
+| Remove popups, banners, & ads  <br>from any website.                          | https://12ft.io/                                                                                    |
+| Read articles without annoying paywalls.                                      | https://www.removepaywall.com/                                                                      |
+| Thumbnails for RetroArch.                                                     | https://github.com/libretro-thumbnails/libretro-thumbnails                                          |
+| A privacy respecting frontend for twitch.tv.                                  | https://safetwitch.drgns.space/                                                                     |
+| Search engines list.                                                          | https://digdeeper.neocities.org/articles/search                                                     |
+| Alias email service.                                                          | https://simplelogin.io/                                                                             |
+| Collection of Source engine game sound files.                                 | https://github.com/sourcesounds                                                                     |
+| Legally read news & research papers for free.                                 | https://www.spaywall.com/                                                                           |
+| Video game cover art.                                                         | https://www.steamgriddb.com/                                                                        |
+| Lookup & convert your steamID, steamID3, steamID64, customURL & community id. | https://steamid.io/lookup/                                                                          |
+| Stream Deck templates for screensaver.                                        | https://github.com/mishmanners/stream-deck-template                                                 |
+| Search engine map.                                                            | https://www.searchenginemap.com/                                                                    |
+| Useful repositories.                                                          | https://github.com/ThioJoe?tab=repositories                                                         |
+| Third party Steam sites list.                                                 | https://github.com/larsiusprime/ThirdPartySteamSites                                                |
+| Generate a picture of a person that does not exist.                           | https://thispersondoesnotexist.com/                                                                 |
+| Accurate online time.                                                         | https://time.is/                                                                                    |
+| List of public BitTorrent trackers.                                           | https://github.com/ngosang/trackerslist                                                             |
+| A collection of IPA files from many different sources, for TrollStore.        | https://github.com/swaggyP36000/TrollStore-IPAs                                                     |
+| Downloads extensions for Chromium-based browsers.                             | https://www.ungoogledextensions.com/                                                                |
+| Firefox configuration hardening.                                              | https://github.com/pyllyukko/user.js                                                                |
+| Scan files/URLs for malware.                                                  | https://www.virustotal.com/gui/home/upload                                                          |
+| VTF Spray Converter for Team Fortress 2.                                      | https://rafradek.github.io/Mishcatt/                                                                |
+| Winget package finder.                                                        | https://winget.run/                                                                                 |
+| Export your YouTube playlist data to CSV file.                                | https://jolantahuba.github.io/YT-Backup/                                                            |
+| Physical 2factor authentication.                                              | https://www.yubico.com/                                                                             |
+| List of terminal tools.                                                       | https://terminaltrove.com/                                                                          |
+| Steam screenshot directory.                                                   | https://steamcommunity.com/discussions/forum/0/3177855357749495486/                                 |
+| Complete list of iOS settings app url schemes.                                | https://github.com/1mehdifaraji/ios-settings-url-schemes                                            |
+| Markdown cheat sheet.                                                         | https://www.markdownguide.org/cheat-sheet/                                                          |
+| A simple way to share Jupyter Notebooks.                                      | https://nbviewer.org/                                                                               |
+| Sharing an Excel file from a Github blog page.                                | https://stackoverflow.com/questions/68757187/sharing-an-excel-file-from-a-github-blog-page          |
+| How to apply Simplify3D dark theme.                                           | https://forum.simplify3d.com/viewtopic.php?t=14953                                                  |
 ### Linux:
 | Description:                                                                    | Website:                                                                                                                                                                                                                            |
 | ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -26,7 +90,7 @@
 | Changing folder permissions & ownership.                                        | https://askubuntu.com/questions/6723/change-folder-permissions-and-ownership                                                                                                                                                        |
 | Change the width of scrollbars in XFCE.                                         | https://unix.stackexchange.com/questions/47674/how-should-one-change-the-width-of-scrollbar                                                                                                                                         |
 | How to create a permanent Bash alias.                                           | https://www.cyberciti.biz/faq/create-permanent-bash-alias-linux-unix/                                                                                                                                                               |
-| How to delete files and directories using terminal.                             | https://www.howtogeek.com/409115/how-to-delete-files-and-directories-in-the-linux-terminal/                                                                                                                                         |
+| How to delete files & directories using terminal.                               | https://www.howtogeek.com/409115/how-to-delete-files-and-directories-in-the-linux-terminal/                                                                                                                                         |
 | Disable recent files options.                                                   | https://forums.linuxmint.com/viewtopic.php?t=405130                                                                                                                                                                                 |
 | Disable/remove audio source (PulseAudio).                                       | https://unix.stackexchange.com/questions/620961/disable-remove-audio-source-pulseaudio                                                                                                                                              |
 | Enabling system sounds.                                                         | https://forum.xfce.org/viewtopic.php?id=8618<br><br>https://ubuntuforums.org/showthread.php?t=1869787&page=2&p=12008205&viewfull=1#post12008205                                                                                     |
@@ -35,7 +99,7 @@
 | Exit terminal after running a Bash script.                                      | https://askubuntu.com/questions/611648/exit-terminal-after-running-a-bash-script                                                                                                                                                    |
 | Export Xfce4 Keyboard shortcuts.                                                | https://www.reddit.com/r/xfce/comments/f60aan/whats_the_right_way_to_export_my_xfce_keyboard/                                                                                                                                       |
 | Hide terminal when opening a GUI application.                                   | https://unix.stackexchange.com/questions/655518/how-to-hide-terminal-when-opening-a-gui-application-pdf-jpg-etc-and-make-it                                                                                                         |
-| Add an application to the GNOME application menu?                               | https://unix.stackexchange.com/questions/103213/how-can-i-add-an-application-to-the-gnome-application-menu                                                                                                                          |
+| Add an application to the GNOME application menu.                               | https://unix.stackexchange.com/questions/103213/how-can-i-add-an-application-to-the-gnome-application-menu                                                                                                                          |
 | Create a selection menu in a shell script.                                      | https://askubuntu.com/questions/1705/how-can-i-create-a-select-menu-in-a-shell-script                                                                                                                                               |
 | Find hardware model using terminal.                                             | https://unix.stackexchange.com/questions/75750/how-can-i-find-the-hardware-model-in-linux                                                                                                                                           |
 | Remove old kernel versions to clean up the boot menu.                           | https://askubuntu.com/questions/2793/how-do-i-remove-old-kernel-versions-to-clean-up-the-boot-menu                                                                                                                                  |
@@ -74,7 +138,7 @@
 | Description:                                                  | Website:                                                                                                                                                                                      |
 | ------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Create elevated shortcut to skip UAC prompt.                  | https://winaero.com/create-elevated-shortcut-to-skip-uac-prompt-in-windows-10/                                                                                                                |
-| Always “Shutdown Anyway”                                      | https://asapguide.com/automatically-shutdown-anyway/                                                                                                                                          |
+| Always “Shutdown Anyway”.                                     | https://asapguide.com/automatically-shutdown-anyway/                                                                                                                                          |
 | Enable autoplay in Chrome.                                    | https://enablenowexpert.com/?p=908                                                                                                                                                            |
 | Aliases in Command Prompt.                                    | https://superuser.com/questions/150244/command-aliases-in-command-prompt                                                                                                                      |
 | Add libraries desktop icon.                                   | https://winaero.com/add-libraries-desktop-icon-windows-10/                                                                                                                                    |
