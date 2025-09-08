@@ -2,29 +2,29 @@
 ```table-of-contents
 ```
 ### Table of Contents:
-| Chapter:           |
-| ------------------ |
-| Audio              |
-| Diagnostics        |
-| Education          |
-| Free Resources     |
-| Fun                |
-| Games              |
-| Gaming             |
-| Linux              |
-| Lists              |
-| Misc               |
-| Notes              |
-| Picture            |
-| Privacy & Security |
-| Reading            |
-| Shopping           |
-| Social             |
-| Steam Games        |
-| Tools              |
-| Tutorials          |
-| Video              |
-| Windows            |
+| Chapter:                                                                                        |
+| ----------------------------------------------------------------------------------------------- |
+| [Audio](https://github.com/Sod-ers/Bookmarks?tab=readme-ov-file#audio)                          |
+| [Diagnostics](https://github.com/Sod-ers/Bookmarks?tab=readme-ov-file#diagnostics)              |
+| [Education](https://github.com/Sod-ers/Bookmarks?tab=readme-ov-file#education)                  |
+| [Free Resources](https://github.com/Sod-ers/Bookmarks?tab=readme-ov-file#free-resources)        |
+| [Fun](https://github.com/Sod-ers/Bookmarks?tab=readme-ov-file#fun)                              |
+| [Games](https://github.com/Sod-ers/Bookmarks?tab=readme-ov-file#games)                          |
+| [Gaming](https://github.com/Sod-ers/Bookmarks?tab=readme-ov-file#gaming)                        |
+| [Linux](https://github.com/Sod-ers/Bookmarks?tab=readme-ov-file#linux)                          |
+| [Lists](https://github.com/Sod-ers/Bookmarks?tab=readme-ov-file#lists)                          |
+| [Misc](https://github.com/Sod-ers/Bookmarks?tab=readme-ov-file#misc)                            |
+| [Notes](https://github.com/Sod-ers/Bookmarks?tab=readme-ov-file#notes)                          |
+| [Picture](https://github.com/Sod-ers/Bookmarks?tab=readme-ov-file#picture)                      |
+| [Privacy & Security](https://github.com/Sod-ers/Bookmarks?tab=readme-ov-file#privacy--security) |
+| [Reading](https://github.com/Sod-ers/Bookmarks?tab=readme-ov-file#reading)                      |
+| [Shopping](https://github.com/Sod-ers/Bookmarks?tab=readme-ov-file#shopping)                    |
+| [Social](https://github.com/Sod-ers/Bookmarks?tab=readme-ov-file#social)                        |
+| [Steam Games](https://github.com/Sod-ers/Bookmarks?tab=readme-ov-file#steam-games)              |
+| [Tools](https://github.com/Sod-ers/Bookmarks?tab=readme-ov-file#tools)                          |
+| [Tutorials](https://github.com/Sod-ers/Bookmarks?tab=readme-ov-file#tutorials)                  |
+| [Video](https://github.com/Sod-ers/Bookmarks?tab=readme-ov-file#video)                          |
+| [Windows](https://github.com/Sod-ers/Bookmarks?tab=readme-ov-file#windows)                      |
 ### Audio:
 | Description:                                                | Website(s):                                                                           |
 | ----------------------------------------------------------- | ------------------------------------------------------------------------------------- |
@@ -79,12 +79,9 @@
 | [GTA Connected](https://gtaconnected.com/)                                                            |
 | [Guitar Hero World Tour: Definitive Edition](https://ghwt.de/)                                        |
 | [I wanna be the boshy](https://delicious-fruit.com/ratings/game_details.php?id=11890)                 |
-| [Insignia](https://insignia.live/)                                                                    |
 | [JSRFMP](https://gamejolt.com/games/JSRFMP/336004)                                                    |
 | [Juice Galaxy](https://fishlicka.itch.io/juice-galaxy)                                                |
 | [Mindustry](https://mindustrygame.github.io/)                                                         |
-| [NXCheats](https://github.com/bad1dea/NXCheats)                                                       |
-| [OnyxToolkit](https://github.com/mtolly/onyx)                                                         |
 | [Plutonium](https://plutonium.pw/)                                                                    |
 | [PokeMMO](https://pokemmo.com/en/)                                                                    |
 | [PT Emulation 1.4](https://www.mediafire.com/file/64vmpecbawu0sll/P.T._Emulation_1.4.rar/file)        |
@@ -106,22 +103,25 @@
 | [Voices of the Void](https://mrdrnose.itch.io/votv)                                                   |
 | [Zelda TOTK](https://zelda.nintendo.com/tears-of-the-kingdom/)                                        |
 ### Gaming:
-| Description:                                                                    | Website(s):                                                                                                          |
-| ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| Video game cover art.                                                           | https://www.steamgriddb.com/                                                                                         |
-| Thumbnails for RetroArch.                                                       | https://github.com/libretro-thumbnails/libretro-thumbnails                                                           |
-| Assets from games.                                                              | https://www.models-resource.com/                                                                                     |
-| Noclip maps.                                                                    | https://noclip.website/                                                                                              |
-| Collection of games/tools.                                                      | https://internet-janitor.itch.io/                                                                                    |
-| Collection of Source Engine game sound files.                                   | https://github.com/sourcesounds                                                                                      |
-| Video game music sound sources spreadsheet.                                     | https://docs.google.com/spreadsheets/d/1JJBlHHDc65fhZmKUGLrDTLCm6rfUU83-kbuD8Y0zU0o/edit?gid=710667713#gid=710667713 |
-| A new & improved community patch for BO3.                                       | https://github.com/shiversoftdev/t7patch                                                                             |
-| Third party Steam sites list.                                                   | https://github.com/larsiusprime/ThirdPartySteamSites                                                                 |
-| A community based on finding & sharing free games.                              | https://steamcommunity.com/groups/freegamesfinders                                                                   |
-| Tools, notes, & research related to reverse engineering the Decima Game Engine. | https://github.com/Wunkolo/DecimaTools                                                                               |
-| VTF Spray Converter for Team Fortress 2.                                        | https://rafradek.github.io/Mishcatt/                                                                                 |
-| A community effort to preserve flash games & animations from the web.           | https://flashpointarchive.org/                                                                                       |
-| Source Engine Blender Collection.                                               | https://github.com/hisprofile/blenderstuff/blob/main/Creations/Source%20Engine%20Blender%20Collection.md             |
+| Description:                                                                                                  | Website(s):                                                                                                          |
+| ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| Video game cover art.                                                                                         | https://www.steamgriddb.com/                                                                                         |
+| Thumbnails for RetroArch.                                                                                     | https://github.com/libretro-thumbnails/libretro-thumbnails                                                           |
+| Assets from games.                                                                                            | https://www.models-resource.com/                                                                                     |
+| Noclip maps.                                                                                                  | https://noclip.website/                                                                                              |
+| Collection of games/tools.                                                                                    | https://internet-janitor.itch.io/                                                                                    |
+| Collection of Source Engine game sound files.                                                                 | https://github.com/sourcesounds                                                                                      |
+| Video game music sound sources spreadsheet.                                                                   | https://docs.google.com/spreadsheets/d/1JJBlHHDc65fhZmKUGLrDTLCm6rfUU83-kbuD8Y0zU0o/edit?gid=710667713#gid=710667713 |
+| A new & improved community patch for BO3.                                                                     | https://github.com/shiversoftdev/t7patch                                                                             |
+| Third party Steam sites list.                                                                                 | https://github.com/larsiusprime/ThirdPartySteamSites                                                                 |
+| A community based on finding & sharing free games.                                                            | https://steamcommunity.com/groups/freegamesfinders                                                                   |
+| Tools, notes, & research related to reverse engineering the Decima Game Engine.                               | https://github.com/Wunkolo/DecimaTools                                                                               |
+| VTF Spray Converter for Team Fortress 2.                                                                      | https://rafradek.github.io/Mishcatt/                                                                                 |
+| A community effort to preserve flash games & animations from the web.                                         | https://flashpointarchive.org/                                                                                       |
+| Source Engine Blender Collection.                                                                             | https://github.com/hisprofile/blenderstuff/blob/main/Creations/Source%20Engine%20Blender%20Collection.md             |
+| Free replacement for Microsoft's servers for the original Xbox console.                                       | https://insignia.live/                                                                                               |
+| Repository of cheats for the Nintendo Switch.                                                                 | https://github.com/bad1dea/NXCheats                                                                                  |
+| Toolkit for converting & building songs for Rock Band, Guitar Hero, Clone Hero, & other similar rhythm games. | https://github.com/mtolly/onyx                                                                                       |
 ### Linux:
 | Description:                                                                                            | Website(s):                                                                                                                                                                                                                                                                                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
