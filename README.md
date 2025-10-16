@@ -35,6 +35,7 @@ ________________________________________________________
 | Live coding platform to write dynamic music pieces.         | https://strudel.cc/                                                                   |
 | A multi‐source seeder for digital releases for MusicBrainz. | https://atisket.pulsewidth.org.uk/                                                    |
 | Discover music through samples, cover songs & remixes.      | https://www.whosampled.com/                                                           |
+| One-liner music.                                            | https://dollchan.net/bytebeat/                                                        |
 ### Diagnostics:
 | Description:                                                                                                  | Website(s):                                      |
 | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
@@ -61,20 +62,20 @@ ________________________________________________________
 | iPhone Shortcuts.                                                             | https://routinehub.co/<br>https://routinehub.co/shortcut/4989/<br>https://routinehub.co/shortcut/5622/                |
 | Find code snippets in seconds, across multiple languages. Just search & copy. | https://quicksnip.dev/                                                                                                |
 ### Fun:
-| Description:                                                                                                             | Website(s):                                  |
-| ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------- |
-| Simulate mouth noises.                                                                                                   | https://imaginary.github.io/pink-trombone/   |
-| Create physics-driven blobs, lines, & repulsion circles. Draw shapes, tweak physics, then export to SVG or high-res JPG. | https://cpreid2.github.io/blobSketch/        |
-| Dither text playground.                                                                                                  | https://typedither.vercel.app/               |
-| Explore & share shaders.                                                                                                 | https://www.shadertoy.com/                   |
-| WTFPL – Do What the Fuck You Want to Public License.                                                                     | http://www.wtfpl.net/                        |
-| Ultimate Flash Face                                                                                                      | https://flashmuseum.org/ultimate-flash-face/ |
+| Description:                                                                                                             | Website(s):                                       |
+| ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------- |
+| Simulate mouth noises.                                                                                                   | https://imaginary.github.io/pink-trombone/        |
+| Create physics-driven blobs, lines, & repulsion circles. Draw shapes, tweak physics, then export to SVG or high-res JPG. | https://cpreid2.github.io/blobSketch/             |
+| Dither text playground.                                                                                                  | https://typedither.vercel.app/                    |
+| Explore & share shaders.                                                                                                 | https://www.shadertoy.com/                        |
+| WTFPL – Do What the Fuck You Want to Public License.                                                                     | http://www.wtfpl.net/                             |
+| Ultimate Flash Face.                                                                                                     | https://flashmuseum.org/ultimate-flash-face/      |
+| Silicon Zoo.                                                                                                             | https://micro.magnet.fsu.edu/creatures/index.html |
 ### Games:
 | Title:                                                                                                |
 | ----------------------------------------------------------------------------------------------------- |
 | [Arcane Kids Games](https://arcanekids.com/)                                                          |
 | [Arkanoid: Doh It Again](https://en.wikipedia.org/wiki/Arkanoid:_Doh_It_Again)                        |
-| [Bebder Game](https://bebder-game.itch.io/bebder-game)                                                |
 | [Clone Hero](https://clonehero.net/)                                                                  |
 | [Crackdown](https://www.xbox.com/en-US/games/store/crackdown/c3vnjhhd7mm4)                            |
 | [Fivem](https://fivem.net/)                                                                           |
@@ -93,6 +94,7 @@ ________________________________________________________
 | [RuneLite](https://runelite.net/)                                                                     |
 | [Shy Guy Surfing](https://lucaspucas.itch.io/shy-guy-surfing)                                         |
 | [Skate 3](https://www.ea.com/games/skate/skate-3)                                                     |
+| [Super Mario Bros Remastered](https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public)       |
 | [Super Mario Wonder](https://supermariobroswonder.nintendo.com/)                                      |
 | [TF2 Classic](https://tf2classic.com/)                                                                |
 | [The Legend of Zelda: Dungeons of Infinity](https://justinbohemier.wixsite.com/portfolio/game-design) |
@@ -103,6 +105,7 @@ ________________________________________________________
 | [Undertale Yellow](https://gamejolt.com/games/UndertaleYellow/136925)                                 |
 | [Unreal PT](https://lutris.net/games/unreal-pt/)                                                      |
 | [Veloren](https://veloren.net/)                                                                       |
+| [Vintage Story](https://www.vintagestory.at/)                                                         |
 | [Voices of the Void](https://mrdrnose.itch.io/votv)                                                   |
 | [Zelda TOTK](https://zelda.nintendo.com/tears-of-the-kingdom/)                                        |
 ### Gaming:
@@ -230,6 +233,7 @@ ________________________________________________________
 | Check if games play on Linux.                                                                                        | https://www.protondb.com/                                                                                                                                                                                                                                                                                                                                                                          |
 | Fix DKMS for Chinese DS4 controllers.                                                                                | https://github.com/carlosmax3D/DS4_CLONE_DKMS_DUALSHOCK_PS4                                                                                                                                                                                                                                                                                                                                        |
 | OS that brings the console gaming experience of the '90s to modern PC hardware & games: insert cart, power on, play. | https://kazeta.org/                                                                                                                                                                                                                                                                                                                                                                                |
+| Remove all files from a directory.                                                                                   | https://askubuntu.com/questions/60228/how-to-remove-all-files-from-a-directory                                                                                                                                                                                                                                                                                                                     |
 ### Lists:
 | Description:                                                                  | Website(s):                                                                                                                                                                  |
 | ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -251,31 +255,35 @@ ________________________________________________________
 | Curated list of awesome mpv resources.                                        | https://github.com/stax76/awesome-mpv                                                                                                                                        |
 | A curated list of awesome CSS frameworks, libraries & software.               | https://github.com/uhub/awesome-css                                                                                                                                          |
 ### Misc:
-| Description:                                      | Website(s):                          |
-| ------------------------------------------------- | ------------------------------------ |
-| Downloads extensions for Chromium-based browsers. | https://www.ungoogledextensions.com/ |
-| Tool inserts made in one click.                   | https://www.tooltrace.ai/            |
+| Description:                                      | Website(s):                                                                                                                                                                   |
+| ------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Downloads extensions for Chromium-based browsers. | https://www.ungoogledextensions.com/                                                                                                                                          |
+| Tool inserts made in one click.                   | https://www.tooltrace.ai/                                                                                                                                                     |
+| Guide to setting up Sidestore + LiveContainer.    | https://gist.github.com/sinceohsix/688637ac04695d1ff38f844acc8ba7f3                                                                                                           |
+| Remove a commit (large file stuck).               | https://www.reddit.com/r/git/comments/qlgcjc/unintentionally_added_large_file_to_repo_and_now/  <br>  <br>`git reset --soft <commit before the one where the file was added>` |
+| Discounted UPS & USPS shipping labels.            | https://www.pirateship.com/                                                                                                                                                   |
 ### Notes:
 | Description:                                   | Website(s):                                                         |
 | ---------------------------------------------- | ------------------------------------------------------------------- |
 | Steam screenshot directory.                    | https://steamcommunity.com/discussions/forum/0/3177855357749495486/ |
 | Complete list of iOS settings app url schemes. | https://github.com/1mehdifaraji/ios-settings-url-schemes            |
 ### Picture:
-| Description:                                                                                   | Website(s):                                            |
-| ---------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
-| Download high quality artwork directly from iTunes.                                            | https://bendodson.com/projects/itunes-artwork-finder/  |
-| High quality album art.                                                                        | https://www.albumartexchange.com/                      |
-| Disc/vinyl art.                                                                                | https://fanart.tv/                                     |
-| Determine if an image has been altered or manipulated.                                         | https://www.fotoforensics.com/                         |
-| Favicon downloader.                                                                            | https://onlineminitools.com/website-favicon-downloader |
-| Simple online .ico image converter.                                                            | https://www.icoconverter.com/                          |
-| Halftone patterns & effects for images.                                                        | https://www.toolandtea.com/tools/halftone-editor       |
-| SVG to PNG converter, square image generator, & corner rounder.<br>                            | https://quickpic.t3.gg/                                |
-| Stream Deck templates for screensaver.                                                         | https://github.com/mishmanners/stream-deck-template    |
-| Generate a picture of a person that does not exist.                                            | https://thispersondoesnotexist.com/                    |
-| Create a Normalmap directly inside your browser; no uploads required, completely client-based. | https://cpetry.github.io/NormalMap-Online/             |
-| Image editor.                                                                                  | https://www.photopea.com/                              |
-| Convert photos  <br>of an object into a 3D model.                                              | https://beholder.vision/                               |
+| Description:                                                                                   | Website(s):                                                 |
+| ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| Download high quality artwork directly from iTunes.                                            | https://bendodson.com/projects/itunes-artwork-finder/       |
+| High quality album art.                                                                        | https://www.albumartexchange.com/                           |
+| Disc/vinyl art.                                                                                | https://fanart.tv/                                          |
+| Determine if an image has been altered or manipulated.                                         | https://www.fotoforensics.com/                              |
+| Favicon downloader.                                                                            | https://onlineminitools.com/website-favicon-downloader      |
+| Simple online .ico image converter.                                                            | https://www.icoconverter.com/                               |
+| Halftone patterns & effects for images.                                                        | https://www.toolandtea.com/tools/halftone-editor            |
+| SVG to PNG converter, square image generator, & corner rounder.<br>                            | https://quickpic.t3.gg/                                     |
+| Stream Deck templates for screensaver.                                                         | https://github.com/mishmanners/stream-deck-template         |
+| Generate a picture of a person that does not exist.                                            | https://thispersondoesnotexist.com/                         |
+| Create a Normalmap directly inside your browser; no uploads required, completely client-based. | https://cpetry.github.io/NormalMap-Online/                  |
+| Image editor.                                                                                  | https://www.photopea.com/                                   |
+| Convert photos  <br>of an object into a 3D model.                                              | https://beholder.vision/                                    |
+| Find reference photos on ArtStation.                                                           | https://www.artstation.com/?sort_by=community&dimension=all |
 ### Privacy & Security:
 | Description:                                                                                                                               | Website(s):                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------- |
@@ -395,6 +403,7 @@ ________________________________________________________
 | [Foxhole](https://store.steampowered.com/app/505460/Foxhole/)                                                                                                                                                     |
 | [Fragsurf](https://store.steampowered.com/app/1033410/Fragsurf/)                                                                                                                                                  |
 | [Fraymakers](https://store.steampowered.com/app/1420350/Fraymakers/)                                                                                                                                              |
+| [Game Quest: The Backlog Battler](https://store.steampowered.com/app/3356660/Game_Quest_The_Backlog_Battler/)                                                                                                     |
 | [GeoGuessr Steam Edition](https://store.steampowered.com/app/3478870/GeoGuessr_Steam_Edition/)                                                                                                                    |
 | [Gimmick! 2](https://store.steampowered.com/app/2994880/Gimmick_2/)                                                                                                                                               |
 | [Goat Simulator Remastered](https://store.steampowered.com/app/1762930/Goat_Simulator_Remastered/)                                                                                                                |
@@ -487,6 +496,7 @@ ________________________________________________________
 | [RoboCop: Rogue City](https://store.steampowered.com/app/1681430/RoboCop_Rogue_City/)                                                                                                                             |
 | [ROGUE LIGHT DECK BUILDER](https://store.steampowered.com/app/3149370/ROGUE_LIGHT_DECK_BUILDER/)                                                                                                                  |
 | [Rooftops & Alleys: The Parkour Game](https://store.steampowered.com/app/2703850/Rooftops__Alleys_The_Parkour_Game/)                                                                                              |
+| [Royalty Free-For-All](https://store.steampowered.com/app/3176720/Royalty_FreeForAll/)                                                                                                                            |
 | [RUMBLE](https://store.steampowered.com/app/890550/RUMBLE/)                                                                                                                                                       |
 | [Rush On](https://store.steampowered.com/app/2440060/Rush_On/)                                                                                                                                                    |
 | [Satisfactory](https://store.steampowered.com/app/526870/Satisfactory/)                                                                                                                                           |
@@ -546,6 +556,7 @@ ________________________________________________________
 | [TRYP FPV : The Drone Racer Simulator](https://store.steampowered.com/app/1881200/TRYP_FPV_Drone_Racer_Simulator/)                                                                                                |
 | [Turbo Dismount® 2](https://store.steampowered.com/app/2280350/Turbo_Dismount_2/)                                                                                                                                 |
 | [UFO 50](https://store.steampowered.com/app/1147860/UFO_50/)                                                                                                                                                      |
+| [Ultimate Sheep Raccoon](https://store.steampowered.com/app/2923350/Ultimate_Sheep_Raccoon/)                                                                                                                      |
 | [Under The Waves](https://store.steampowered.com/app/1975440/Under_The_Waves/)                                                                                                                                    |
 | [Undisputed](https://store.steampowered.com/app/1451190/Undisputed/)                                                                                                                                              |
 | [Unrecord](https://store.steampowered.com/app/2381520/Unrecord/)                                                                                                                                                  |
@@ -588,12 +599,14 @@ ________________________________________________________
 | Disable automatic capitalization in LibreOffice Calc. | https://superuser.com/questions/1438543/how-to-disable-automatic-capitalization-in-libreoffice-calc                                                                                                                                                          |
 | Sharing an Excel file from a Github blog page.        | https://stackoverflow.com/questions/68757187/sharing-an-excel-file-from-a-github-blog-page                                                                                                                                                                   |
 | How to apply Simplify3D dark theme.                   | https://forum.simplify3d.com/viewtopic.php?t=14953                                                                                                                                                                                                           |
+| Disable “Back Tap Detected” banner on iPhone.         | https://www.idownloadblog.com/2025/05/13/turn-off-back-tap-detected-banner-iphone/                                                                                                                                                                           |
 ### Video:
-| Description:                                | Website(s):                    |
-| ------------------------------------------- | ------------------------------ |
-| Easily make animated emojis.                | https://makeemoji.com/         |
-| Web multimedia downloader.                  | https://cobalt.tools/          |
-| Generate spinning record videos with audio. | https://cover-spin.vercel.app/ |
+| Description:                                | Website(s):                                                          |
+| ------------------------------------------- | -------------------------------------------------------------------- |
+| Easily make animated emojis.                | https://makeemoji.com/                                               |
+| Web multimedia downloader.                  | https://cobalt.tools/                                                |
+| Generate spinning record videos with audio. | https://cover-spin.vercel.app/                                       |
+| Apple TV aerial video screensavers.         | https://bzamayo.com/watch-all-the-apple-tv-aerial-video-screensavers |
 ### Windows:
 | Description:                                               | Website(s):                                                                                                                                                                                              |
 | ---------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
