@@ -27,15 +27,16 @@
 | [Windows](https://github.com/Sod-ers/Bookmarks?tab=readme-ov-file#windows)                      |
 ________________________________________________________
 ### Audio:
-| Description:                                                | Website(s):                                                                           |
-| ----------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| How to make custom iPhone ringtones/notification sounds.    | https://www.reddit.com/r/iphone/comments/wc11ge/iphone_tip_how_to_make_custom_iphone/ |
-| Chromecast browser app.                                     | https://chromecast.link/                                                              |
-| A tool for automatically equalizing headphones.             | https://autoeq.app/                                                                   |
-| Live coding platform to write dynamic music pieces.         | https://strudel.cc/                                                                   |
-| A multi‐source seeder for digital releases for MusicBrainz. | https://atisket.pulsewidth.org.uk/                                                    |
-| Discover music through samples, cover songs & remixes.      | https://www.whosampled.com/                                                           |
-| One-liner music.                                            | https://dollchan.net/bytebeat/                                                        |
+| Description:                                                                                                                    | Website(s):                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| How to make custom iPhone ringtones/notification sounds.                                                                        | https://www.reddit.com/r/iphone/comments/wc11ge/iphone_tip_how_to_make_custom_iphone/ |
+| Chromecast browser app.                                                                                                         | https://chromecast.link/                                                              |
+| A tool for automatically equalizing headphones.                                                                                 | https://autoeq.app/                                                                   |
+| Live coding platform to write dynamic music pieces.                                                                             | https://strudel.cc/                                                                   |
+| A multi‐source seeder for digital releases for MusicBrainz.                                                                     | https://atisket.pulsewidth.org.uk/                                                    |
+| Discover music through samples, cover songs & remixes.                                                                          | https://www.whosampled.com/                                                           |
+| One-liner music.                                                                                                                | https://dollchan.net/bytebeat/                                                        |
+| Each letter you type corresponds to a specific musical note putting a new spin to your composition. Make music while you write. | https://typatone.com/                                                                 |
 ### Diagnostics:
 | Description:                                                                                                  | Website(s):                                      |
 | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
@@ -128,6 +129,7 @@ ________________________________________________________
 | Free replacement for Microsoft's servers for the original Xbox console.                                       | https://insignia.live/                                                                                               |
 | Repository of cheats for the Nintendo Switch.                                                                 | https://github.com/bad1dea/NXCheats                                                                                  |
 | Toolkit for converting & building songs for Rock Band, Guitar Hero, Clone Hero, & other similar rhythm games. | https://github.com/mtolly/onyx                                                                                       |
+| Resources for Spelunky.                                                                                       | https://spelunky.fyi/                                                                                                |
 ### Linux:
 | Description:                                                                                                         | Website(s):                                                                                                                                                                                                                                                                                                                                                                                        |
 | -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -538,6 +540,7 @@ ________________________________________________________
 | [The Break-In](https://store.steampowered.com/app/1397390/The_BreakIn/)                                                                                                                                           |
 | [The Elder Scrolls IV: Oblivion Remastered](https://store.steampowered.com/app/2623190/The_Elder_Scrolls_IV_Oblivion_Remastered/)                                                                                 |
 | [The Enjenir](https://store.steampowered.com/app/1800940/The_Enjenir_The_Engineering_Physics_Building_Simulator/)                                                                                                 |
+| [The Farmer Was Replaced](https://store.steampowered.com/app/2060160/The_Farmer_Was_Replaced/)                                                                                                                    |
 | [The Jackbox Party Pack 8](https://store.steampowered.com/app/1552350/The_Jackbox_Party_Pack_8/)                                                                                                                  |
 | [The Jackbox Party Pack 9](https://store.steampowered.com/app/1850960/The_Jackbox_Party_Pack_9/)                                                                                                                  |
 | [The Jackbox Party Pack 10](https://store.steampowered.com/app/2216830/The_Jackbox_Party_Pack_10/)                                                                                                                |
