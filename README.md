@@ -80,6 +80,7 @@ ________________________________________________________
 | [Clone Hero](https://clonehero.net/)                                                                  |
 | [Crackdown](https://www.xbox.com/en-US/games/store/crackdown/c3vnjhhd7mm4)                            |
 | [Fivem](https://fivem.net/)                                                                           |
+| [Futurama: Hit & Run](https://modbakery.donutteam.com/projects/view/48)                               |
 | [GoldenEye: Source](https://www.geshl2.com/)                                                          |
 | [GTA Connected](https://gtaconnected.com/)                                                            |
 | [Guitar Hero World Tour: Definitive Edition](https://ghwt.de/)                                        |
@@ -257,13 +258,11 @@ ________________________________________________________
 | Curated list of awesome mpv resources.                                        | https://github.com/stax76/awesome-mpv                                                                                                                                        |
 | A curated list of awesome CSS frameworks, libraries & software.               | https://github.com/uhub/awesome-css                                                                                                                                          |
 ### Misc:
-| Description:                                      | Website(s):                                                                                                                                                                   |
-| ------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Downloads extensions for Chromium-based browsers. | https://www.ungoogledextensions.com/                                                                                                                                          |
-| Tool inserts made in one click.                   | https://www.tooltrace.ai/                                                                                                                                                     |
-| Guide to setting up Sidestore + LiveContainer.    | https://gist.github.com/sinceohsix/688637ac04695d1ff38f844acc8ba7f3                                                                                                           |
-| Remove a commit (large file stuck).               | https://www.reddit.com/r/git/comments/qlgcjc/unintentionally_added_large_file_to_repo_and_now/  <br>  <br>`git reset --soft <commit before the one where the file was added>` |
-| Discounted UPS & USPS shipping labels.            | https://www.pirateship.com/                                                                                                                                                   |
+| Description:                                      | Website(s):                          |
+| ------------------------------------------------- | ------------------------------------ |
+| Downloads extensions for Chromium-based browsers. | https://www.ungoogledextensions.com/ |
+| Tool inserts made in one click.                   | https://www.tooltrace.ai/            |
+| Discounted UPS & USPS shipping labels.            | https://www.pirateship.com/          |
 ### Notes:
 | Description:                                   | Website(s):                                                         |
 | ---------------------------------------------- | ------------------------------------------------------------------- |
@@ -286,6 +285,8 @@ ________________________________________________________
 | Image editor.                                                                                  | https://www.photopea.com/                                   |
 | Convert photos  <br>of an object into a 3D model.                                              | https://beholder.vision/                                    |
 | Find reference photos on ArtStation.                                                           | https://www.artstation.com/?sort_by=community&dimension=all |
+| Free UV checker map maker & presets.                                                           | https://uvchecker.vinzi.xyz/                                |
+| Enigmatic color palette generator.                                                             | https://meodai.github.io/poline/                            |
 ### Privacy & Security:
 | Description:                                                                                                                               | Website(s):                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------- |
@@ -341,6 +342,7 @@ ________________________________________________________
 | [Alien Hominid Invasion](https://store.steampowered.com/app/843200/Alien_Hominid_Invasion/)                                                                                                                       |
 | [Aliens: Fireteam Elite](https://store.steampowered.com/app/1549970/Aliens_Fireteam_Elite/)                                                                                                                       |
 | [ANIMAL WELL](https://store.steampowered.com/app/813230/ANIMAL_WELL/)                                                                                                                                             |
+| [ARC Raiders](https://store.steampowered.com/app/1808500/ARC_Raiders/)                                                                                                                                            |
 | [ARMORED CORE™ VI FIRES OF RUBICON™](https://store.steampowered.com/app/1888160/ARMORED_CORE_VI_FIRES_OF_RUBICON/)                                                                                                |
 | [Audioshield](https://store.steampowered.com/app/412740/Audioshield/)                                                                                                                                             |
 | [Baba Is You](https://store.steampowered.com/app/736260/Baba_Is_You/)                                                                                                                                             |
@@ -367,6 +369,7 @@ ________________________________________________________
 | [Chill Town](https://store.steampowered.com/app/1940200/Chill_Town/)                                                                                                                                              |
 | [Chillquarium](https://store.steampowered.com/app/2276930/Chillquarium/)                                                                                                                                          |
 | [Choo-Choo Charles](https://store.steampowered.com/app/1766740/ChooChoo_Charles/)                                                                                                                                 |
+| [Chromatic Conundrum](https://store.steampowered.com/app/3081690/Chromatic_Conundrum/)                                                                                                                            |
 | [Combat Master: Season 1](https://store.steampowered.com/app/2281730/Combat_Master_Season_1/)                                                                                                                     |
 | [Contractors](https://store.steampowered.com/app/963930/Contractors/)                                                                                                                                             |
 | [Cookie Clicker](https://store.steampowered.com/app/1454400/Cookie_Clicker/)                                                                                                                                      |
@@ -405,6 +408,7 @@ ________________________________________________________
 | [Foxhole](https://store.steampowered.com/app/505460/Foxhole/)                                                                                                                                                     |
 | [Fragsurf](https://store.steampowered.com/app/1033410/Fragsurf/)                                                                                                                                                  |
 | [Fraymakers](https://store.steampowered.com/app/1420350/Fraymakers/)                                                                                                                                              |
+| [Funi Raccoon Game](https://store.steampowered.com/app/3599690/Funi_Raccoon_Game/)                                                                                                                                |
 | [Game Quest: The Backlog Battler](https://store.steampowered.com/app/3356660/Game_Quest_The_Backlog_Battler/)                                                                                                     |
 | [GeoGuessr Steam Edition](https://store.steampowered.com/app/3478870/GeoGuessr_Steam_Edition/)                                                                                                                    |
 | [Gimmick! 2](https://store.steampowered.com/app/2994880/Gimmick_2/)                                                                                                                                               |
@@ -486,6 +490,7 @@ ________________________________________________________
 | [Prison Architect 2](https://store.steampowered.com/app/1257610/Prison_Architect_2/)                                                                                                                              |
 | [Project Mix](https://store.steampowered.com/app/2439770/PROJECT_MIX/)                                                                                                                                            |
 | [Propnight](https://store.steampowered.com/app/1549180/Propnight/)                                                                                                                                                |
+| [Q-UP](https://store.steampowered.com/app/3730790/QUP/)                                                                                                                                                           |
 | [Ranch Simulator - Build, Farm, Hunt](https://store.steampowered.com/app/1119730/Ranch_Simulator_Build_Hunt_Farm/)                                                                                                |
 | [Ready or Not](https://store.steampowered.com/app/1144200/Ready_or_Not/)                                                                                                                                          |
 | [Remnant II](https://store.steampowered.com/app/1282100/REMNANT_II/)                                                                                                                                              |
@@ -501,6 +506,7 @@ ________________________________________________________
 | [Royalty Free-For-All](https://store.steampowered.com/app/3176720/Royalty_FreeForAll/)                                                                                                                            |
 | [RUMBLE](https://store.steampowered.com/app/890550/RUMBLE/)                                                                                                                                                       |
 | [Rush On](https://store.steampowered.com/app/2440060/Rush_On/)                                                                                                                                                    |
+| [RV There Yet?](https://store.steampowered.com/app/3949040/RV_There_Yet/)                                                                                                                                         |
 | [Satisfactory](https://store.steampowered.com/app/526870/Satisfactory/)                                                                                                                                           |
 | [SCP: 5K](https://store.steampowered.com/app/872670/SCP_5K/)                                                                                                                                                      |
 | [Sea of Thieves 2024 Edition](https://store.steampowered.com/app/1172620/Sea_of_Thieves_2024_Edition/)                                                                                                            |
@@ -603,6 +609,9 @@ ________________________________________________________
 | Sharing an Excel file from a Github blog page.        | https://stackoverflow.com/questions/68757187/sharing-an-excel-file-from-a-github-blog-page                                                                                                                                                                   |
 | How to apply Simplify3D dark theme.                   | https://forum.simplify3d.com/viewtopic.php?t=14953                                                                                                                                                                                                           |
 | Disable “Back Tap Detected” banner on iPhone.         | https://www.idownloadblog.com/2025/05/13/turn-off-back-tap-detected-banner-iphone/                                                                                                                                                                           |
+| Solve "This environment is externally managed".       | https://stackoverflow.com/questions/75608323/how-do-i-solve-error-externally-managed-environment-every-time-i-use-pip-3<br>https://python.land/virtual-environments/virtualenv                                                                               |
+| Remove a commit (large file stuck).                   | https://www.reddit.com/r/git/comments/qlgcjc/unintentionally_added_large_file_to_repo_and_now/  <br>  <br>`git reset --soft <commit before the one where the file was added>`                                                                                |
+| Guide to setting up Sidestore + LiveContainer.        | https://gist.github.com/sinceohsix/688637ac04695d1ff38f844acc8ba7f3                                                                                                                                                                                          |
 ### Video:
 | Description:                                | Website(s):                                                          |
 | ------------------------------------------- | -------------------------------------------------------------------- |
