@@ -72,6 +72,7 @@ ________________________________________________________
 | WTFPL – Do What the Fuck You Want to Public License.                                                                     | http://www.wtfpl.net/                             |
 | Ultimate Flash Face.                                                                                                     | https://flashmuseum.org/ultimate-flash-face/      |
 | Silicon Zoo.                                                                                                             | https://micro.magnet.fsu.edu/creatures/index.html |
+| Various web projects.                                                                                                    | https://texs.org/                                 |
 ### Games:
 | Title:                                                                                                |
 | ----------------------------------------------------------------------------------------------------- |
@@ -131,6 +132,7 @@ ________________________________________________________
 | Repository of cheats for the Nintendo Switch.                                                                 | https://github.com/bad1dea/NXCheats                                                                                  |
 | Toolkit for converting & building songs for Rock Band, Guitar Hero, Clone Hero, & other similar rhythm games. | https://github.com/mtolly/onyx                                                                                       |
 | Resources for Spelunky.                                                                                       | https://spelunky.fyi/                                                                                                |
+| RPG tools.                                                                                                    | https://donjon.bin.sh/                                                                                               |
 ### Linux:
 | Description:                                                                                                         | Website(s):                                                                                                                                                                                                                                                                                                                                                                                        |
 | -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -263,6 +265,7 @@ ________________________________________________________
 | Downloads extensions for Chromium-based browsers. | https://www.ungoogledextensions.com/ |
 | Tool inserts made in one click.                   | https://www.tooltrace.ai/            |
 | Discounted UPS & USPS shipping labels.            | https://www.pirateship.com/          |
+| New Windows "Edit" command.                       | https://youtu.be/qYd99vGSgQ4         |
 ### Notes:
 | Description:                                   | Website(s):                                                         |
 | ---------------------------------------------- | ------------------------------------------------------------------- |
@@ -362,6 +365,7 @@ ________________________________________________________
 | [Brotato](https://store.steampowered.com/app/1942280/Brotato/)                                                                                                                                                    |
 | [Bully: Scholarship Edition](https://store.steampowered.com/app/12200/Bully_Scholarship_Edition/)                                                                                                                 |
 | [Burgie's cozy kitchen](https://store.steampowered.com/app/3314340/Burgies_cozy_kitchen/)                                                                                                                         |
+| [Buster Jam](https://store.steampowered.com/app/3399240/Buster_Jam/)                                                                                                                                              |
 | [Cadence](https://store.steampowered.com/app/362800/Cadence/)                                                                                                                                                     |
 | [CARNAL](https://store.steampowered.com/app/1586290/CARNAL/)                                                                                                                                                      |
 | [Castle Crashers - Painter Boss Paradise](https://store.steampowered.com/app/3133920/Castle_Crashers__Painter_Boss_Paradise/)                                                                                     |
@@ -397,6 +401,7 @@ ________________________________________________________
 | [Dwarf Fortress](https://store.steampowered.com/app/975370/Dwarf_Fortress/)                                                                                                                                       |
 | [Eco](https://store.steampowered.com/app/382310/Eco/)                                                                                                                                                             |
 | [Enter the Gungeon 2](https://store.steampowered.com/app/2339840/Enter_the_Gungeon_2/)                                                                                                                            |
+| [Eternity Egg](https://store.steampowered.com/app/1670690/Eternity_Egg/)                                                                                                                                          |
 | [Fallout 4 VR](https://store.steampowered.com/app/611660/Fallout_4_VR/)                                                                                                                                           |
 | [Far Cry 5](https://store.steampowered.com/app/552520/Far_Cry_5/)                                                                                                                                                 |
 | [Fireworks Mania - An Explosive Simulator](https://store.steampowered.com/app/1079260/Fireworks_Mania__An_Explosive_Simulator/)                                                                                   |
@@ -416,7 +421,9 @@ ________________________________________________________
 | [Golf Gang](https://store.steampowered.com/app/1151050/Golf_Gang/)                                                                                                                                                |
 | [Golf With Your Friends 2](https://store.steampowered.com/app/3209660/Golf_With_Your_Friends_2/)                                                                                                                  |
 | [Graveyard Keeper](https://store.steampowered.com/app/599140/Graveyard_Keeper/)                                                                                                                                   |
+| [Gravity Sketch](https://store.steampowered.com/app/551370/Gravity_Sketch/)                                                                                                                                       |
 | [Green Hawk Platoon](https://store.steampowered.com/app/2077890/Green_Hawk_Platoon/)                                                                                                                              |
+| [Half Sword](https://store.steampowered.com/app/2397300/Half_Sword/)                                                                                                                                              |
 | [Half-Life: Mmod](https://store.steampowered.com/app/1761270/HalfLife_MMod/)                                                                                                                                      |
 | [Hard Time III](https://store.steampowered.com/app/3009850/Hard_Time_III/)                                                                                                                                        |
 | [Harold Halibut](https://store.steampowered.com/app/924750/Harold_Halibut/)                                                                                                                                       |
@@ -488,6 +495,7 @@ ________________________________________________________
 | [POSTAL 4: No Regerts](https://store.steampowered.com/app/707030/POSTAL_4_No_Regerts/)                                                                                                                            |
 | [POSTAL: Brain Damaged](https://store.steampowered.com/app/1359980/POSTAL_Brain_Damaged/)                                                                                                                         |
 | [Prison Architect 2](https://store.steampowered.com/app/1257610/Prison_Architect_2/)                                                                                                                              |
+| [Progressbar95](https://store.steampowered.com/app/1304550/Progressbar95/)                                                                                                                                        |
 | [Project Mix](https://store.steampowered.com/app/2439770/PROJECT_MIX/)                                                                                                                                            |
 | [Propnight](https://store.steampowered.com/app/1549180/Propnight/)                                                                                                                                                |
 | [Q-UP](https://store.steampowered.com/app/3730790/QUP/)                                                                                                                                                           |
@@ -497,6 +505,7 @@ ________________________________________________________
 | [Restitched](https://store.steampowered.com/app/1361090/Restitched/)                                                                                                                                              |
 | [Retrocycles](https://store.steampowered.com/app/1306180/Retrocycles/)                                                                                                                                            |
 | [RimWorld - Anomaly](https://store.steampowered.com/app/2380740/RimWorld__Anomaly/)                                                                                                                               |
+| [Risk of Rain 2: Alloyed Collective](https://store.steampowered.com/app/2781620/Risk_of_Rain_2_Alloyed_Collective/)                                                                                               |
 | [Risk of Rain 2: Seekers of the Storm](https://store.steampowered.com/app/2306620/Risk_of_Rain_2_Seekers_of_the_Storm/)                                                                                           |
 | [Risk of Rain 2: Survivors of the Void](https://store.steampowered.com/app/1607890/Risk_of_Rain_2_Survivors_of_the_Void/)                                                                                         |
 | [Risk of Rain Returns](https://store.steampowered.com/app/1337520/Risk_of_Rain_Returns/)                                                                                                                          |
@@ -504,6 +513,7 @@ ________________________________________________________
 | [ROGUE LIGHT DECK BUILDER](https://store.steampowered.com/app/3149370/ROGUE_LIGHT_DECK_BUILDER/)                                                                                                                  |
 | [Rooftops & Alleys: The Parkour Game](https://store.steampowered.com/app/2703850/Rooftops__Alleys_The_Parkour_Game/)                                                                                              |
 | [Royalty Free-For-All](https://store.steampowered.com/app/3176720/Royalty_FreeForAll/)                                                                                                                            |
+| [Rubber Hose Rampage](https://store.steampowered.com/app/2759240/Rubber_Hose_Rampage/)                                                                                                                            |
 | [RUMBLE](https://store.steampowered.com/app/890550/RUMBLE/)                                                                                                                                                       |
 | [Rush On](https://store.steampowered.com/app/2440060/Rush_On/)                                                                                                                                                    |
 | [RV There Yet?](https://store.steampowered.com/app/3949040/RV_There_Yet/)                                                                                                                                         |
@@ -532,9 +542,11 @@ ________________________________________________________
 | [Starbound](https://store.steampowered.com/app/211820/Starbound/)                                                                                                                                                 |
 | [Starship Simulator](https://store.steampowered.com/app/1332100/Starship_Simulator/)                                                                                                                              |
 | [Steam Engine Simulator](https://store.steampowered.com/app/2381620/Steam_Engine_Simulator/)                                                                                                                      |
+| [Stone Simulator – Just Be a Rock](https://store.steampowered.com/app/1425980/Stone_Simulator__Just_Be_a_Rock/)                                                                                                   |
 | [Stormworks: Build and Rescue](https://store.steampowered.com/app/573090/Stormworks_Build_and_Rescue/)                                                                                                            |
 | [STORROR Parkour Pro](https://store.steampowered.com/app/3125250/STORROR_Parkour_Pro/)                                                                                                                            |
 | [Stray](https://store.steampowered.com/app/1332010/Stray/)                                                                                                                                                        |
+| [STUNTBOOST](https://store.steampowered.com/app/2999500/STUNTBOOST/)                                                                                                                                              |
 | [Subnautica 2](https://store.steampowered.com/app/1962700/Subnautica_2/)                                                                                                                                          |
 | [SULFUR](https://store.steampowered.com/app/2124120/SULFUR/)                                                                                                                                                      |
 | [Swelter](https://store.steampowered.com/app/1815330/Swelter/)                                                                                                                                                    |
@@ -593,6 +605,7 @@ ________________________________________________________
 | Create a bibliography in any citation style.       | https://zbib.org/                                                          |
 | Shows all the plugins used in a Ableton .als file. | https://www.pluginhell.io/                                                 |
 | A simple way to share Jupyter Notebooks.           | https://nbviewer.org/                                                      |
+| Various tools.                                     | https://tools-unite.com/tools                                              |
 ### Tutorials:
 | Description:                                          | Website(s):                                                                                                                                                                                                                                                  |
 | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

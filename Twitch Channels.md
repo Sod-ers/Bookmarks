@@ -2,9 +2,10 @@
 ```table-of-contents
 ```
 ### Table of Contents:
-| Chapter:                                                                                                     |
-| ------------------------------------------------------------------------------------------------------------ |
+| Chapter:                                                                                                          |
+| ----------------------------------------------------------------------------------------------------------------- |
 | [Background Noise](https://github.com/Sod-ers/Bookmarks/blob/main/Twitch%20Channels.md#background-noise)          |
+| [Categories](https://github.com/Sod-ers/Bookmarks/blob/main/Twitch%20Channels.md#categories)                      |
 | [City](https://github.com/Sod-ers/Bookmarks/blob/main/Twitch%20Channels.md#city)                                  |
 | [Commentary & Reaction](https://github.com/Sod-ers/Bookmarks/blob/main/Twitch%20Channels.md#commentary--reaction) |
 | [Gaming](https://github.com/Sod-ers/Bookmarks/blob/main/Twitch%20Channels.md#gaming)                              |
@@ -20,6 +21,23 @@ ________________________________________________________
 | Channel:                                         | About:                        |
 | ------------------------------------------------ | ----------------------------- |
 | [FactoryFeed](https://www.twitch.tv/factoryfeed) | 24/7 background ASMR content. |
+### Categories:
+| Category:                                                                                               |
+| ------------------------------------------------------------------------------------------------------- |
+| [Always On](https://www.twitch.tv/directory/category/always-on)                                         |
+| [Creative](https://www.twitch.tv/directory/creative)                                                    |
+| [DJs](https://www.twitch.tv/directory/category/djs)                                                     |
+| [Esports](https://www.twitch.tv/directory/esports)                                                      |
+| [Factorio](https://www.twitch.tv/directory/category/factorio)                                           |
+| [Games](https://www.twitch.tv/directory/gaming)                                                         |
+| [Garry's Mod](https://www.twitch.tv/directory/category/garrys-mod)                                      |
+| [IRL](https://www.twitch.tv/directory/irl)                                                              |
+| [Just Chatting](https://www.twitch.tv/directory/category/just-chatting)                                 |
+| [Marathon](https://www.twitch.tv/directory/all/tags/Marathon)                                           |
+| [Music & DJs](https://www.twitch.tv/directory/music)                                                    |
+| [Rocket League](https://www.twitch.tv/directory/category/rocket-league)                                 |
+| [Software and Game Development](https://www.twitch.tv/directory/category/software-and-game-development) |
+| [Special Events](https://www.twitch.tv/directory/category/special-events)                               |
 ### City:
 | Channel:                                                   | About:                                                                                |
 | ---------------------------------------------------------- | ------------------------------------------------------------------------------------- |
@@ -87,12 +105,14 @@ ________________________________________________________
 ### Nature:
 | Channel:                                                 | About:                                                                                                                                |
 | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| [ReefAndChill](https://www.twitch.tv/reefandchill)       | Reef aquarium.                                                                                                                        |
 | [ScarbsOceanView](https://www.twitch.tv/scarbsoceanview) | Scarborough, Western Cape, South Africa. Enjoy stunning ocean views, vibrant sunsets, & real-time surf watch.                         |
 | [TheArcticSkies](https://www.twitch.tv/thearcticskies)   | 24/7 sky north of the arctic circle in the Swedish Lapland. See the bright skies during the midnight sun & the Auroras during winter. |
 ### Tech:
 | Channel:                                               | About:                                        |
 | ------------------------------------------------------ | --------------------------------------------- |
 | [ChrisTitusTech](https://www.twitch.tv/christitustech) | The Windows Utility guy & Linux advocate.     |
+| [georgehotz](https://www.twitch.tv/georgehotz)         | -                                             |
 | [TechTangents](https://www.twitch.tv/techtangents)     | Vintage computers, education, & preservation. |
 ### Travel:
 | Channel:                                   | About:                                        |
