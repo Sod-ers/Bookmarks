@@ -58,7 +58,7 @@ ________________________________________________________
 | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
 | Free icons.                                                                   | https://iconarchive.com/<br>https://www.thiings.co/things                                                             |
 | Free images.                                                                  | https://pixabay.com/                                                                                                  |
-| Free 3D Assets.                                                               | https://ambientcg.com/<br>https://polyhaven.com/                                                                      |
+| Free 3D Assets.                                                               | https://ambientcg.com/<br>https://polyhaven.com/<br>https://materialmaker.org/materials?type=material                 |
 | Free sounds.                                                                  | https://splice.com/<br>https://freesound.org/<br>https://sound-effects.bbcrewind.co.uk/<br>https://www.looperman.com/ |
 | iPhone Shortcuts.                                                             | https://routinehub.co/<br>https://routinehub.co/shortcut/4989/<br>https://routinehub.co/shortcut/5622/                |
 | Find code snippets in seconds, across multiple languages. Just search & copy. | https://quicksnip.dev/                                                                                                |
@@ -73,11 +73,13 @@ ________________________________________________________
 | Ultimate Flash Face.                                                                                                     | https://flashmuseum.org/ultimate-flash-face/      |
 | Silicon Zoo.                                                                                                             | https://micro.magnet.fsu.edu/creatures/index.html |
 | Various web projects.                                                                                                    | https://texs.org/                                 |
+| Experimental webgl gallery that can visualize tens of thousands of film posters as a voronoi diagram.                    | https://nothing-to-watch.port80.ch/               |
 ### Games:
 | Title:                                                                                                |
 | ----------------------------------------------------------------------------------------------------- |
 | [Arcane Kids Games](https://arcanekids.com/)                                                          |
 | [Arkanoid: Doh It Again](https://en.wikipedia.org/wiki/Arkanoid:_Doh_It_Again)                        |
+| [BetterGH3](https://youtu.be/RWRoxHwAM9E?si=zMVinZEfZ16CI4j5)                                         |
 | [Clone Hero](https://clonehero.net/)                                                                  |
 | [Crackdown](https://www.xbox.com/en-US/games/store/crackdown/c3vnjhhd7mm4)                            |
 | [Fivem](https://fivem.net/)                                                                           |
@@ -91,6 +93,7 @@ ________________________________________________________
 | [Mindustry](https://mindustrygame.github.io/)                                                         |
 | [Plutonium](https://plutonium.pw/)                                                                    |
 | [PokeMMO](https://pokemmo.com/en/)                                                                    |
+| [Poptropica Legacy](https://andrewwiles.itch.io/poptropica-legacy)                                    |
 | [PT Emulation 1.4](https://www.mediafire.com/file/64vmpecbawu0sll/P.T._Emulation_1.4.rar/file)        |
 | [reTHAWed](https://rethawed.com/)                                                                     |
 | [Roblox](https://www.roblox.com/)                                                                     |
@@ -100,6 +103,7 @@ ________________________________________________________
 | [Super Mario Bros Remastered](https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public)       |
 | [Super Mario Wonder](https://supermariobroswonder.nintendo.com/)                                      |
 | [TF2 Classic](https://tf2classic.com/)                                                                |
+| [The Escapists Reincarcerated](https://github.com/iliketurtles14/ter-repo)                            |
 | [The Legend of Zelda: Dungeons of Infinity](https://justinbohemier.wixsite.com/portfolio/game-design) |
 | [The Tower of Druaga](https://en.wikipedia.org/wiki/The_Tower_of_Druaga)                              |
 | [THUG 1](https://en.wikipedia.org/wiki/Tony_Hawk%27s_Underground)                                     |
@@ -133,6 +137,7 @@ ________________________________________________________
 | Toolkit for converting & building songs for Rock Band, Guitar Hero, Clone Hero, & other similar rhythm games. | https://github.com/mtolly/onyx                                                                                       |
 | Resources for Spelunky.                                                                                       | https://spelunky.fyi/                                                                                                |
 | RPG tools.                                                                                                    | https://donjon.bin.sh/                                                                                               |
+| First Person Outlines for Team Fortress 2 weapons.                                                            | https://gamebanana.com/wips/49156                                                                                    |
 ### Linux:
 | Description:                                                                                                         | Website(s):                                                                                                                                                                                                                                                                                                                                                                                        |
 | -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -259,6 +264,7 @@ ________________________________________________________
 | A list of portolio sites for inspiration & comparison.                        | https://github.com/AquariusDue/PortfolioExamples                                                                                                                             |
 | Curated list of awesome mpv resources.                                        | https://github.com/stax76/awesome-mpv                                                                                                                                        |
 | A curated list of awesome CSS frameworks, libraries & software.               | https://github.com/uhub/awesome-css                                                                                                                                          |
+| Awesome lists.                                                                | https://github.com/blefnk/awesome-github-repos<br>https://github.com/Am0rphous/Awesome<br>https://github.com/fluteds/starred                                                 |
 ### Misc:
 | Description:                                      | Website(s):                          |
 | ------------------------------------------------- | ------------------------------------ |
@@ -370,6 +376,7 @@ ________________________________________________________
 | [CARNAL](https://store.steampowered.com/app/1586290/CARNAL/)                                                                                                                                                      |
 | [Castle Crashers - Painter Boss Paradise](https://store.steampowered.com/app/3133920/Castle_Crashers__Painter_Boss_Paradise/)                                                                                     |
 | [Catch Me If You Can](https://store.steampowered.com/app/839330/Catch_Me_If_You_Can/)                                                                                                                             |
+| [Chain-Chillas](https://store.steampowered.com/app/3593660/ChainChillas/)                                                                                                                                         |
 | [Chill Town](https://store.steampowered.com/app/1940200/Chill_Town/)                                                                                                                                              |
 | [Chillquarium](https://store.steampowered.com/app/2276930/Chillquarium/)                                                                                                                                          |
 | [Choo-Choo Charles](https://store.steampowered.com/app/1766740/ChooChoo_Charles/)                                                                                                                                 |
@@ -424,6 +431,7 @@ ________________________________________________________
 | [Gravity Sketch](https://store.steampowered.com/app/551370/Gravity_Sketch/)                                                                                                                                       |
 | [Green Hawk Platoon](https://store.steampowered.com/app/2077890/Green_Hawk_Platoon/)                                                                                                                              |
 | [Half Sword](https://store.steampowered.com/app/2397300/Half_Sword/)                                                                                                                                              |
+| [Half-Life: Element 64](https://store.steampowered.com/app/1625220/HalfLife_Element_64/)                                                                                                                          |
 | [Half-Life: Mmod](https://store.steampowered.com/app/1761270/HalfLife_MMod/)                                                                                                                                      |
 | [Hard Time III](https://store.steampowered.com/app/3009850/Hard_Time_III/)                                                                                                                                        |
 | [Harold Halibut](https://store.steampowered.com/app/924750/Harold_Halibut/)                                                                                                                                       |
@@ -434,6 +442,7 @@ ________________________________________________________
 | [Hollow Knight: Silksong](https://store.steampowered.com/app/1030300/Hollow_Knight_Silksong/)                                                                                                                     |
 | [Holstin](https://store.steampowered.com/app/2235430/Holstin/)                                                                                                                                                    |
 | [HYPERCHARGE: Unboxed](https://store.steampowered.com/app/523660/HYPERCHARGE_Unboxed/)                                                                                                                            |
+| [If Red Then Stop](https://store.steampowered.com/app/3987060/If_Red_Then_Stop/)                                                                                                                                  |
 | [INMOST](https://store.steampowered.com/app/938560/INMOST/)                                                                                                                                                       |
 | [Inscryption](https://store.steampowered.com/app/1092790/Inscryption/)                                                                                                                                            |
 | [Into the Radius VR](https://store.steampowered.com/app/1012790/Into_the_Radius_VR/)                                                                                                                              |
@@ -465,14 +474,17 @@ ________________________________________________________
 | [Mars First Logistics](https://store.steampowered.com/app/1532200/Mars_First_Logistics/)                                                                                                                          |
 | [Marvel’s Spider-Man: Miles Morales](https://store.steampowered.com/app/1817190/Marvels_SpiderMan_Miles_Morales/)                                                                                                 |
 | [McPixel 3](https://store.steampowered.com/app/1338580/McPixel_3/)                                                                                                                                                |
+| [Milling machine simulator](https://store.steampowered.com/app/1787960/Milling_machine_simulator/)                                                                                                                |
 | [Mindustry](https://store.steampowered.com/app/1127400/Mindustry/)                                                                                                                                                |
 | [Mirror's Edge™](https://store.steampowered.com/app/17410/Mirrors_Edge/)                                                                                                                                          |
 | [Mirror's Edge™ Catalyst](https://store.steampowered.com/app/1233570/Mirrors_Edge_Catalyst/)                                                                                                                      |
+| [Miss Paint](https://store.steampowered.com/app/2755990/Miss_Paint/)                                                                                                                                              |
 | [Mix Universe](https://store.steampowered.com/app/1654810/Mix_Universe/)                                                                                                                                          |
 | [Modulus](https://store.steampowered.com/app/2779120/Modulus/)                                                                                                                                                    |
 | [Momentum Mod](https://store.steampowered.com/app/669270/Momentum_Mod/)                                                                                                                                           |
 | [Moonstone Island](https://store.steampowered.com/app/1658150/Moonstone_Island/)                                                                                                                                  |
 | [Mosa Lina](https://store.steampowered.com/app/2477090/Mosa_Lina/)                                                                                                                                                |
+| [My Winter Car](https://store.steampowered.com/app/4164420/My_Winter_Car/)                                                                                                                                        |
 | [N++ (NPLUSPLUS)](https://store.steampowered.com/app/230270/N_NPLUSPLUS/)                                                                                                                                         |
 | [Necesse](https://store.steampowered.com/app/1169040/Necesse/)                                                                                                                                                    |
 | [Noble Fates](https://store.steampowered.com/app/1769420/Noble_Fates/)                                                                                                                                            |
@@ -563,6 +575,8 @@ ________________________________________________________
 | [The Jackbox Party Pack 9](https://store.steampowered.com/app/1850960/The_Jackbox_Party_Pack_9/)                                                                                                                  |
 | [The Jackbox Party Pack 10](https://store.steampowered.com/app/2216830/The_Jackbox_Party_Pack_10/)                                                                                                                |
 | [The Long Drive](https://store.steampowered.com/app/1017180/The_Long_Drive/)                                                                                                                                      |
+| [The Survivalists](https://store.steampowered.com/app/897450/The_Survivalists/)                                                                                                                                   |
+| [The Trolley Solution](https://store.steampowered.com/app/3219410/The_Trolley_Solution/)                                                                                                                          |
 | [The Wandering Village](https://store.steampowered.com/app/1121640/The_Wandering_Village/)                                                                                                                        |
 | [The Witness](https://store.steampowered.com/app/210970/The_Witness/)                                                                                                                                             |
 | [They Are Billions](https://store.steampowered.com/app/644930/They_Are_Billions/)                                                                                                                                 |
@@ -595,36 +609,41 @@ ________________________________________________________
 | [Zeepkist](https://store.steampowered.com/app/1440670/Zeepkist/)                                                                                                                                                  |
 | [Zombieville USA 3D](https://store.steampowered.com/app/1801520/Zombieville_USA_3D/)                                                                                                                              |
 ### Tools:
-| Description:                                       | Website(s):                                                                |
-| -------------------------------------------------- | -------------------------------------------------------------------------- |
-| Get metadata from a YouTube URL.                   | https://mattw.io/youtube-metadata/                                         |
-| Unsubscribe from all YouTube channels script.      | https://www.howtogeek.com/unsubscribe-from-all-youtube-channels-in-one-go/ |
-| Export your YouTube playlist data to CSV file.     | https://jolantahuba.github.io/YT-Backup/                                   |
-| A tool to help you visualize privacy policies.     | https://rejectconvenience.com/privacy-visualizer/                          |
-| Create, fill, & sign digital documents.            | https://www.docuseal.com/                                                  |
-| Create a bibliography in any citation style.       | https://zbib.org/                                                          |
-| Shows all the plugins used in a Ableton .als file. | https://www.pluginhell.io/                                                 |
-| A simple way to share Jupyter Notebooks.           | https://nbviewer.org/                                                      |
-| Various tools.                                     | https://tools-unite.com/tools                                              |
+| Description:                                              | Website(s):                                                                |
+| --------------------------------------------------------- | -------------------------------------------------------------------------- |
+| Get metadata from a YouTube URL.                          | https://mattw.io/youtube-metadata/                                         |
+| Unsubscribe from all YouTube channels script.             | https://www.howtogeek.com/unsubscribe-from-all-youtube-channels-in-one-go/ |
+| Export your YouTube playlist data to CSV file.            | https://jolantahuba.github.io/YT-Backup/                                   |
+| A tool to help you visualize privacy policies.            | https://rejectconvenience.com/privacy-visualizer/                          |
+| Create, fill, & sign digital documents.                   | https://www.docuseal.com/                                                  |
+| Create a bibliography in any citation style.              | https://zbib.org/                                                          |
+| Shows all the plugins used in a Ableton .als file.        | https://www.pluginhell.io/                                                 |
+| A simple way to share Jupyter Notebooks.                  | https://nbviewer.org/                                                      |
+| Various tools.                                            | https://tools-unite.com/tools                                              |
+| Host & render your 3D Models in real time interactive 3D. | https://sketchfab.com/                                                     |
+| Generate common FFmpeg command-line operations.           | https://alfg.github.io/ffmpeg-commander/                                   |
+| Find the difference between two text files.               | https://www.diffchecker.com/                                               |
 ### Tutorials:
-| Description:                                          | Website(s):                                                                                                                                                                                                                                                  |
-| ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Change scrollbar width in Chrome & Firefox.           | https://www.thewindowsclub.com/how-to-change-scrollbar-width-in-chrome-and-firefox?expand_article=1                                                                                                                                                          |
-| Calculate tip with iPhone.                            | https://appletoolbox.com/iphone-calculate-tip/                                                                                                                                                                                                               |
-| Mozilla bug report guidelines.                        | https://bugzilla.mozilla.org/page.cgi?id=bug-writing.html                                                                                                                                                                                                    |
-| How to structure commits.                             | https://www.conventionalcommits.org/en/v1.0.0/                                                                                                                                                                                                               |
-| Xfce Git resources.                                   | https://docs.xfce.org/contribute/dev/git/start                                                                                                                                                                                                               |
-| Markdown cheat sheet.                                 | https://www.markdownguide.org/cheat-sheet/                                                                                                                                                                                                                   |
-| Connecting Obsidian vault to GitHub.                  | https://linked-blog-starter.vercel.app/connect-obsidian-vault-with-github                                                                                                                                                                                    |
-| Obsidian Eistenhower Matrix.                          | https://forum.obsidian.md/t/eisenhower-matrix-kanban-style/77729<br>https://tfthacker.com/eisenhower-matrix-kanban<br>https://help.obsidian.md/snippets<br>https://help.obsidian.md/properties<br>https://www.browserstack.com/guide/how-to-use-css-rgba<br> |
-| Remove duplicate values in LibreOffice Calc.          | https://help.libreoffice.org/latest/en-US/text/scalc/guide/remove_duplicates.html                                                                                                                                                                            |
-| Disable automatic capitalization in LibreOffice Calc. | https://superuser.com/questions/1438543/how-to-disable-automatic-capitalization-in-libreoffice-calc                                                                                                                                                          |
-| Sharing an Excel file from a Github blog page.        | https://stackoverflow.com/questions/68757187/sharing-an-excel-file-from-a-github-blog-page                                                                                                                                                                   |
-| How to apply Simplify3D dark theme.                   | https://forum.simplify3d.com/viewtopic.php?t=14953                                                                                                                                                                                                           |
-| Disable “Back Tap Detected” banner on iPhone.         | https://www.idownloadblog.com/2025/05/13/turn-off-back-tap-detected-banner-iphone/                                                                                                                                                                           |
-| Solve "This environment is externally managed".       | https://stackoverflow.com/questions/75608323/how-do-i-solve-error-externally-managed-environment-every-time-i-use-pip-3<br>https://python.land/virtual-environments/virtualenv                                                                               |
-| Remove a commit (large file stuck).                   | https://www.reddit.com/r/git/comments/qlgcjc/unintentionally_added_large_file_to_repo_and_now/  <br>  <br>`git reset --soft <commit before the one where the file was added>`                                                                                |
-| Guide to setting up Sidestore + LiveContainer.        | https://gist.github.com/sinceohsix/688637ac04695d1ff38f844acc8ba7f3                                                                                                                                                                                          |
+| Description:                                                 | Website(s):                                                                                                                                                                                                                                                  |
+| ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Change scrollbar width in Chrome & Firefox.                  | https://www.thewindowsclub.com/how-to-change-scrollbar-width-in-chrome-and-firefox?expand_article=1                                                                                                                                                          |
+| Calculate tip with iPhone.                                   | https://appletoolbox.com/iphone-calculate-tip/                                                                                                                                                                                                               |
+| Mozilla bug report guidelines.                               | https://bugzilla.mozilla.org/page.cgi?id=bug-writing.html                                                                                                                                                                                                    |
+| How to structure commits.                                    | https://www.conventionalcommits.org/en/v1.0.0/                                                                                                                                                                                                               |
+| Xfce Git resources.                                          | https://docs.xfce.org/contribute/dev/git/start                                                                                                                                                                                                               |
+| Markdown cheat sheet.                                        | https://www.markdownguide.org/cheat-sheet/                                                                                                                                                                                                                   |
+| Connecting Obsidian vault to GitHub.                         | https://linked-blog-starter.vercel.app/connect-obsidian-vault-with-github                                                                                                                                                                                    |
+| Obsidian Eistenhower Matrix.                                 | https://forum.obsidian.md/t/eisenhower-matrix-kanban-style/77729<br>https://tfthacker.com/eisenhower-matrix-kanban<br>https://help.obsidian.md/snippets<br>https://help.obsidian.md/properties<br>https://www.browserstack.com/guide/how-to-use-css-rgba<br> |
+| Remove duplicate values in LibreOffice Calc.                 | https://help.libreoffice.org/latest/en-US/text/scalc/guide/remove_duplicates.html                                                                                                                                                                            |
+| Disable automatic capitalization in LibreOffice Calc.        | https://superuser.com/questions/1438543/how-to-disable-automatic-capitalization-in-libreoffice-calc                                                                                                                                                          |
+| Sharing an Excel file from a Github blog page.               | https://stackoverflow.com/questions/68757187/sharing-an-excel-file-from-a-github-blog-page                                                                                                                                                                   |
+| How to apply Simplify3D dark theme.                          | https://forum.simplify3d.com/viewtopic.php?t=14953                                                                                                                                                                                                           |
+| Disable “Back Tap Detected” banner on iPhone.                | https://www.idownloadblog.com/2025/05/13/turn-off-back-tap-detected-banner-iphone/                                                                                                                                                                           |
+| Solve "This environment is externally managed".              | https://stackoverflow.com/questions/75608323/how-do-i-solve-error-externally-managed-environment-every-time-i-use-pip-3<br>https://python.land/virtual-environments/virtualenv                                                                               |
+| Remove a commit (large file stuck).                          | https://www.reddit.com/r/git/comments/qlgcjc/unintentionally_added_large_file_to_repo_and_now/  <br>  <br>`git reset --soft <commit before the one where the file was added>`                                                                                |
+| Guide to setting up Sidestore + LiveContainer.               | https://gist.github.com/sinceohsix/688637ac04695d1ff38f844acc8ba7f3                                                                                                                                                                                          |
+| Hide VMs from malware.                                       | https://youtube.com/watch?v=-On6bWFXuM8                                                                                                                                                                                                                      |
+| Remove unavailable videos from YouTube watch later playlist. | https://www.youtube.com/watch?v=vTnPj4YQ0Tg                                                                                                                                                                                                                  |
 ### Video:
 | Description:                                | Website(s):                                                          |
 | ------------------------------------------- | -------------------------------------------------------------------- |
@@ -671,3 +690,4 @@ ________________________________________________________
 | 7 Windows registry tweaks to make your life easier.        | https://youtu.be/V7AuHBZsOj0                                                                                                                                                                             |
 | Various scripts for Windows Sandbox.                       | https://github.com/ThioJoe/Windows-Sandbox-Tools                                                                                                                                                         |
 | Winget package finder.                                     | https://winget.run/                                                                                                                                                                                      |
+| Disable hibernation & remove hiberfil.sys.                 | https://www.howtogeek.com/885071/how-to-disable-hibernation-and-remove-hiberfil-sys-in-windows-11/                                                                                                       |
