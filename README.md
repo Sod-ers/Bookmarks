@@ -38,6 +38,7 @@ ________________________________________________________
 | One-liner music.                                                                                                                | https://dollchan.net/bytebeat/                                                                                        |
 | Each letter you type corresponds to a specific musical note putting a new spin to your composition. Make music while you write. | https://typatone.com/                                                                                                 |
 | Find new music.                                                                                                                 | https://rss.marketingtools.apple.com/<br>https://releasefeed.elomatreb.eu/<br>https://spotifyreleaselist.netlify.app/ |
+| Find audio to sample.                                                                                                           | https://samplefocus.com/                                                                                              |
 ### Diagnostics:
 | Description:                                                                                                  | Website(s):                                      |
 | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
@@ -76,69 +77,84 @@ ________________________________________________________
 | Various web projects.                                                                                                    | https://texs.org/                                 |
 | Experimental webgl gallery that can visualize tens of thousands of film posters as a voronoi diagram.                    | https://nothing-to-watch.port80.ch/               |
 ### Games:
-| Title:                                                                                                |
-| ----------------------------------------------------------------------------------------------------- |
-| [Arcane Kids Games](https://arcanekids.com/)                                                          |
-| [Arkanoid: Doh It Again](https://en.wikipedia.org/wiki/Arkanoid:_Doh_It_Again)                        |
-| [BetterGH3](https://youtu.be/RWRoxHwAM9E?si=zMVinZEfZ16CI4j5)                                         |
-| [Clone Hero](https://clonehero.net/)                                                                  |
-| [Crackdown](https://www.xbox.com/en-US/games/store/crackdown/c3vnjhhd7mm4)                            |
-| [Fivem](https://fivem.net/)                                                                           |
-| [Futurama: Hit & Run](https://modbakery.donutteam.com/projects/view/48)                               |
-| [GoldenEye: Source](https://www.geshl2.com/)                                                          |
-| [GTA Connected](https://gtaconnected.com/)                                                            |
-| [Guitar Hero World Tour: Definitive Edition](https://ghwt.de/)                                        |
-| [I wanna be the boshy](https://delicious-fruit.com/ratings/game_details.php?id=11890)                 |
-| [JSRFMP](https://gamejolt.com/games/JSRFMP/336004)                                                    |
-| [Juice Galaxy](https://fishlicka.itch.io/juice-galaxy)                                                |
-| [Mindustry](https://mindustrygame.github.io/)                                                         |
-| [Plutonium](https://plutonium.pw/)                                                                    |
-| [PokeMMO](https://pokemmo.com/en/)                                                                    |
-| [Poptropica Legacy](https://andrewwiles.itch.io/poptropica-legacy)                                    |
-| [PT Emulation 1.4](https://www.mediafire.com/file/64vmpecbawu0sll/P.T._Emulation_1.4.rar/file)        |
-| [reTHAWed](https://rethawed.com/)                                                                     |
-| [Roblox](https://www.roblox.com/)                                                                     |
-| [RuneLite](https://runelite.net/)                                                                     |
-| [Shy Guy Surfing](https://lucaspucas.itch.io/shy-guy-surfing)                                         |
-| [Skate 3](https://www.ea.com/games/skate/skate-3)                                                     |
-| [Super Mario Bros Remastered](https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public)       |
-| [Super Mario Wonder](https://supermariobroswonder.nintendo.com/)                                      |
-| [TF2 Classic](https://tf2classic.com/)                                                                |
-| [The Escapists Reincarcerated](https://github.com/iliketurtles14/ter-repo)                            |
-| [The Legend of Zelda: Dungeons of Infinity](https://justinbohemier.wixsite.com/portfolio/game-design) |
-| [The Tower of Druaga](https://en.wikipedia.org/wiki/The_Tower_of_Druaga)                              |
-| [THUG 1](https://en.wikipedia.org/wiki/Tony_Hawk%27s_Underground)                                     |
-| [THUG 2](https://tonyhawkgames.fandom.com/wiki/Tony_Hawk%27s_Underground_2)                           |
-| [Tomb Fetus](https://pyspy.neocities.org/tf/)                                                         |
-| [Undertale Yellow](https://gamejolt.com/games/UndertaleYellow/136925)                                 |
-| [Unreal PT](https://lutris.net/games/unreal-pt/)                                                      |
-| [Veloren](https://veloren.net/)                                                                       |
-| [Vintage Story](https://www.vintagestory.at/)                                                         |
-| [Voices of the Void](https://mrdrnose.itch.io/votv)                                                   |
-| [Zelda TOTK](https://zelda.nintendo.com/tears-of-the-kingdom/)                                        |
+| Title:                                                                                                                          |
+| ------------------------------------------------------------------------------------------------------------------------------- |
+| [Arcane Kids Games](https://arcanekids.com/)                                                                                    |
+| [ARKANOID - ETERNAL BATTLE](https://www.nintendo.com/us/store/products/arkanoid-eternal-battle-switch/)                         |
+| [Arkanoid: Doh It Again](https://en.wikipedia.org/wiki/Arkanoid:_Doh_It_Again)                                                  |
+| [ASTRONEER](https://www.nintendo.com/us/store/products/astroneer-switch/)                                                       |
+| [Balatro](https://www.nintendo.com/us/store/products/balatro-switch/)                                                           |
+| [BetterGH3](https://youtu.be/RWRoxHwAM9E?si=zMVinZEfZ16CI4j5)                                                                   |
+| [Clone Hero](https://clonehero.net/)                                                                                            |
+| [Crackdown](https://www.xbox.com/en-US/games/store/crackdown/c3vnjhhd7mm4)                                                      |
+| [Crossover Collab - A mod for Celeste](https://gamebanana.com/mods/637482)                                                      |
+| [DEMON'S TILT](https://www.nintendo.com/us/store/products/demons-tilt-switch/)                                                  |
+| [Don't Starve: Nintendo Switch Edition](https://www.nintendo.com/us/store/products/dont-starve-nintendo-switch-edition-switch/) |
+| [Fivem](https://fivem.net/)                                                                                                     |
+| [Futurama: Hit & Run](https://modbakery.donutteam.com/projects/view/48)                                                         |
+| [GoldenEye: Source](https://www.geshl2.com/)                                                                                    |
+| [Graveyard Keeper](https://www.nintendo.com/us/store/products/graveyard-keeper-switch/)                                         |
+| [GTA Connected](https://gtaconnected.com/)                                                                                      |
+| [Guitar Hero World Tour: Definitive Edition](https://ghwt.de/)                                                                  |
+| [I wanna be the boshy](https://delicious-fruit.com/ratings/game_details.php?id=11890)                                           |
+| [Into the Breach](https://www.nintendo.com/us/store/products/into-the-breach-switch/)                                           |
+| [JSRFMP](https://gamejolt.com/games/JSRFMP/336004)                                                                              |
+| [Juice Galaxy](https://fishlicka.itch.io/juice-galaxy)                                                                          |
+| [KORG Gadget](https://www.nintendo.com/us/store/products/korg-gadget-for-nintendo-switch-switch/)                               |
+| [Mindustry](https://mindustrygame.github.io/)                                                                                   |
+| [Nuclear Throne](https://www.nintendo.com/us/store/products/nuclear-throne-switch/)                                             |
+| [Plutonium](https://plutonium.pw/)                                                                                              |
+| [PokeMMO](https://pokemmo.com/en/)                                                                                              |
+| [Poptropica Legacy](https://andrewwiles.itch.io/poptropica-legacy)                                                              |
+| [PT Emulation 1.4](https://www.mediafire.com/file/64vmpecbawu0sll/P.T._Emulation_1.4.rar/file)                                  |
+| [reTHAWed](https://rethawed.com/)                                                                                               |
+| [Roblox](https://www.roblox.com/)                                                                                               |
+| [RuneLite](https://runelite.net/)                                                                                               |
+| [Shy Guy Surfing](https://lucaspucas.itch.io/shy-guy-surfing)                                                                   |
+| [Skate 3](https://www.ea.com/games/skate/skate-3)                                                                               |
+| [Super Mario Bros Remastered](https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public)                                 |
+| [Super Mario Wonder](https://supermariobroswonder.nintendo.com/)                                                                |
+| [TF2 Classic](https://tf2classic.com/)                                                                                          |
+| [The Escapists Reincarcerated](https://github.com/iliketurtles14/ter-repo)                                                      |
+| [The Legend of Zelda: Dungeons of Infinity](https://justinbohemier.wixsite.com/portfolio/game-design)                           |
+| [The Survivalists](https://www.nintendo.com/us/store/products/the-survivalists-switch/)                                         |
+| [The Tower of Druaga](https://en.wikipedia.org/wiki/The_Tower_of_Druaga)                                                        |
+| [THUG 1](https://en.wikipedia.org/wiki/Tony_Hawk%27s_Underground)                                                               |
+| [THUG 2](https://tonyhawkgames.fandom.com/wiki/Tony_Hawk%27s_Underground_2)                                                     |
+| [Tomb Fetus](https://pyspy.neocities.org/tf/)                                                                                   |
+| [Townscaper](https://www.nintendo.com/us/store/products/townscaper-switch/)                                                     |
+| [Undertale Yellow](https://gamejolt.com/games/UndertaleYellow/136925)                                                           |
+| [Unreal PT](https://lutris.net/games/unreal-pt/)                                                                                |
+| [Vampire Survivors](https://www.nintendo.com/us/store/products/vampire-survivors-switch/)                                       |
+| [Veloren](https://veloren.net/)                                                                                                 |
+| [Vintage Story](https://www.vintagestory.at/)                                                                                   |
+| [Voices of the Void](https://mrdrnose.itch.io/votv)                                                                             |
+| [Zelda TOTK](https://zelda.nintendo.com/tears-of-the-kingdom/)                                                                  |
 ### Gaming:
-| Description:                                                                                                  | Website(s):                                                                                                          |
-| ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| Video game cover art.                                                                                         | https://www.steamgriddb.com/                                                                                         |
-| Thumbnails for RetroArch.                                                                                     | https://github.com/libretro-thumbnails/libretro-thumbnails                                                           |
-| Assets from games.                                                                                            | https://www.models-resource.com/                                                                                     |
-| Noclip maps.                                                                                                  | https://noclip.website/                                                                                              |
-| Collection of games/tools.                                                                                    | https://internet-janitor.itch.io/                                                                                    |
-| Collection of Source Engine game sound files.                                                                 | https://github.com/sourcesounds                                                                                      |
-| Video game music sound sources spreadsheet.                                                                   | https://docs.google.com/spreadsheets/d/1JJBlHHDc65fhZmKUGLrDTLCm6rfUU83-kbuD8Y0zU0o/edit?gid=710667713#gid=710667713 |
-| A new & improved community patch for BO3.                                                                     | https://github.com/shiversoftdev/t7patch                                                                             |
-| Third party Steam sites list.                                                                                 | https://github.com/larsiusprime/ThirdPartySteamSites                                                                 |
-| A community based on finding & sharing free games.                                                            | https://steamcommunity.com/groups/freegamesfinders                                                                   |
-| Tools, notes, & research related to reverse engineering the Decima Game Engine.                               | https://github.com/Wunkolo/DecimaTools                                                                               |
-| VTF Spray Converter for Team Fortress 2.                                                                      | https://rafradek.github.io/Mishcatt/                                                                                 |
-| A community effort to preserve flash games & animations from the web.                                         | https://flashpointarchive.org/                                                                                       |
-| Source Engine Blender Collection.                                                                             | https://github.com/hisprofile/blenderstuff/blob/main/Creations/Source%20Engine%20Blender%20Collection.md             |
-| Free replacement for Microsoft's servers for the original Xbox console.                                       | https://insignia.live/                                                                                               |
-| Repository of cheats for the Nintendo Switch.                                                                 | https://github.com/bad1dea/NXCheats                                                                                  |
-| Toolkit for converting & building songs for Rock Band, Guitar Hero, Clone Hero, & other similar rhythm games. | https://github.com/mtolly/onyx                                                                                       |
-| Resources for Spelunky.                                                                                       | https://spelunky.fyi/                                                                                                |
-| RPG tools.                                                                                                    | https://donjon.bin.sh/                                                                                               |
-| First Person Outlines for Team Fortress 2 weapons.                                                            | https://gamebanana.com/wips/49156                                                                                    |
+| Description:                                                                                                  | Website(s):                                                                                                                                                      |
+| ------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Video game cover art.                                                                                         | https://www.steamgriddb.com/                                                                                                                                     |
+| Thumbnails for RetroArch.                                                                                     | https://github.com/libretro-thumbnails/libretro-thumbnails                                                                                                       |
+| Assets from games.                                                                                            | https://www.models-resource.com/                                                                                                                                 |
+| Noclip maps.                                                                                                  | https://noclip.website/                                                                                                                                          |
+| Collection of games/tools.                                                                                    | https://internet-janitor.itch.io/                                                                                                                                |
+| Collection of Source Engine game sound files.                                                                 | https://github.com/sourcesounds                                                                                                                                  |
+| Video game music sound sources spreadsheet.                                                                   | https://docs.google.com/spreadsheets/d/1JJBlHHDc65fhZmKUGLrDTLCm6rfUU83-kbuD8Y0zU0o/edit?gid=710667713#gid=710667713                                             |
+| A new & improved community patch for BO3.                                                                     | https://github.com/shiversoftdev/t7patch                                                                                                                         |
+| Third party Steam sites list.                                                                                 | https://github.com/larsiusprime/ThirdPartySteamSites                                                                                                             |
+| A community based on finding & sharing free games.                                                            | https://steamcommunity.com/groups/freegamesfinders                                                                                                               |
+| Tools, notes, & research related to reverse engineering the Decima Game Engine.                               | https://github.com/Wunkolo/DecimaTools                                                                                                                           |
+| VTF Spray Converter for Team Fortress 2.                                                                      | https://rafradek.github.io/Mishcatt/                                                                                                                             |
+| A community effort to preserve flash games & animations from the web.                                         | https://flashpointarchive.org/                                                                                                                                   |
+| Source Engine Blender Collection.                                                                             | https://github.com/hisprofile/blenderstuff/blob/main/Creations/Source%20Engine%20Blender%20Collection.md                                                         |
+| Free replacement for Microsoft's servers for the original Xbox console.                                       | https://insignia.live/                                                                                                                                           |
+| Repository of cheats for the Nintendo Switch.                                                                 | https://github.com/bad1dea/NXCheats                                                                                                                              |
+| Toolkit for converting & building songs for Rock Band, Guitar Hero, Clone Hero, & other similar rhythm games. | https://github.com/mtolly/onyx                                                                                                                                   |
+| Resources for Spelunky.                                                                                       | https://spelunky.fyi/                                                                                                                                            |
+| RPG tools.                                                                                                    | https://donjon.bin.sh/                                                                                                                                           |
+| First Person Outlines for Team Fortress 2 weapons.                                                            | https://gamebanana.com/wips/49156                                                                                                                                |
+| Nintendo Switch price tracking & wishlist notifications.                                                      | https://www.dekudeals.com/                                                                                                                                       |
+| Animal Crossing resources.                                                                                    | https://eugeneration.github.io/HappyIslandDesigner/<br>https://turnipprophet.io/<br>https://wuffs.org/acnh/weather/<br>https://nookipedia.com/wiki/Main_Page<br> |
 ### Linux:
 | Description:                                                                                                         | Website(s):                                                                                                                                                                                                                                                                                                                                                                                        |
 | -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -245,6 +261,7 @@ ________________________________________________________
 | Fix DKMS for Chinese DS4 controllers.                                                                                | https://github.com/carlosmax3D/DS4_CLONE_DKMS_DUALSHOCK_PS4                                                                                                                                                                                                                                                                                                                                        |
 | OS that brings the console gaming experience of the '90s to modern PC hardware & games: insert cart, power on, play. | https://kazeta.org/                                                                                                                                                                                                                                                                                                                                                                                |
 | Remove all files from a directory.                                                                                   | https://askubuntu.com/questions/60228/how-to-remove-all-files-from-a-directory                                                                                                                                                                                                                                                                                                                     |
+| Record speaker output.                                                                                               | https://youtu.be/2IcGnm_lBEo                                                                                                                                                                                                                                                                                                                                                                       |
 ### Lists:
 | Description:                                                                  | Website(s):                                                                                                                                                                                                                                      |
 | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -323,14 +340,16 @@ ________________________________________________________
 | Remove popups, banners, & ads  <br>from any website.     | https://12ft.io/               |
 | Read articles without annoying paywalls.                 | https://www.removepaywall.com/ |
 | Legally read news & research papers for free.            | https://www.spaywall.com/      |
+| Free books.                                              | https://oceanofpdf.com/        |
 ### Shopping:
-| Description:                                                                                     | Website(s):                               |
-| ------------------------------------------------------------------------------------------------ | ----------------------------------------- |
-| Provides part selection, pricing, & compatibility guidance for do-it-yourself computer builders. | https://pcpartpicker.com/                 |
-| Helps you choose parts for your PC.                                                              | https://www.logicalincrements.com/        |
-| Controllers & accessories.                                                                       | https://www.8bitdo.com/                   |
-| Hardware-software solution intended for diagnosing & repairing HDDs.                             | https://www.acelab.eu.com/pc3000.udma.php |
-| Privacy-respecting, open source & secure TV ecosystem.                                           | https://plasma-bigscreen.org/             |
+| Description:                                                                                     | Website(s):                                           |
+| ------------------------------------------------------------------------------------------------ | ----------------------------------------------------- |
+| Provides part selection, pricing, & compatibility guidance for do-it-yourself computer builders. | https://pcpartpicker.com/                             |
+| Helps you choose parts for your PC.                                                              | https://www.logicalincrements.com/                    |
+| Controllers & accessories.                                                                       | https://www.8bitdo.com/                               |
+| Hardware-software solution intended for diagnosing & repairing HDDs.                             | https://www.acelab.eu.com/pc3000.udma.php             |
+| Privacy-respecting, open source & secure TV ecosystem.                                           | https://plasma-bigscreen.org/                         |
+| Redeem My Nintendo Platinum Points.                                                              | https://www.nintendo.com/us/store/exclusives/rewards/ |
 ### Social:
 | Description:                                 | Website(s):                     |
 | -------------------------------------------- | ------------------------------- |
@@ -391,6 +410,7 @@ ________________________________________________________
 | [CRUMB Circuit Simulator](https://store.steampowered.com/app/2198800/CRUMB_Circuit_Simulator/)                                                                                                                    |
 | [Cult of the Lamb](https://store.steampowered.com/app/1313140/Cult_of_the_Lamb/)                                                                                                                                  |
 | [Dagger Directive](https://store.steampowered.com/app/2437670/Dagger_Directive/)                                                                                                                                  |
+| [Darkwood](https://store.steampowered.com/app/274520/Darkwood/)                                                                                                                                                   |
 | [DAVE THE DIVER](https://store.steampowered.com/app/1868140/DAVE_THE_DIVER/)                                                                                                                                      |
 | [DayZ Badlands](https://store.steampowered.com/app/3816030/DayZ_Badlands/)                                                                                                                                        |
 | [Dead Pixels II](https://store.steampowered.com/app/259000/Dead_Pixels_II/)                                                                                                                                       |
@@ -456,6 +476,7 @@ ________________________________________________________
 | [JellyCar Worlds](https://store.steampowered.com/app/1740930/JellyCar_Worlds/)                                                                                                                                    |
 | [JOY OF PROGRAMMING - Software Engineering Simulator](https://store.steampowered.com/app/2216770/JOY_OF_PROGRAMMING__Software_Engineering_Simulator/)                                                             |
 | [JUNKPUNK](https://store.steampowered.com/app/1585020/JUNKPUNK/)                                                                                                                                                  |
+| [Kenshi](https://store.steampowered.com/app/233860/Kenshi/)                                                                                                                                                       |
 | [Kerbal Space Program 2](https://store.steampowered.com/app/954850/Kerbal_Space_Program_2/)                                                                                                                       |
 | [Killing Floor 2](https://store.steampowered.com/app/232090/Killing_Floor_2/)                                                                                                                                     |
 | [Kingdom Come: Deliverance II](https://store.steampowered.com/app/1771300/Kingdom_Come_Deliverance_II/)                                                                                                           |
@@ -520,6 +541,7 @@ ________________________________________________________
 | [Ready or Not](https://store.steampowered.com/app/1144200/Ready_or_Not/)                                                                                                                                          |
 | [Remnant II](https://store.steampowered.com/app/1282100/REMNANT_II/)                                                                                                                                              |
 | [Restitched](https://store.steampowered.com/app/1361090/Restitched/)                                                                                                                                              |
+| [Retrocycles](https://store.steampowered.com/app/1306180/Retrocycles/)                                                                                                                                            |
 | [Retrocycles](https://store.steampowered.com/app/1306180/Retrocycles/)                                                                                                                                            |
 | [RimWorld - Anomaly](https://store.steampowered.com/app/2380740/RimWorld__Anomaly/)                                                                                                                               |
 | [Risk of Rain 2: Alloyed Collective](https://store.steampowered.com/app/2781620/Risk_of_Rain_2_Alloyed_Collective/)                                                                                               |
@@ -595,6 +617,7 @@ ________________________________________________________
 | [Tricky Towers](https://store.steampowered.com/app/437920/Tricky_Towers/)                                                                                                                                         |
 | [TRYP FPV : The Drone Racer Simulator](https://store.steampowered.com/app/1881200/TRYP_FPV_Drone_Racer_Simulator/)                                                                                                |
 | [Turbo Dismount® 2](https://store.steampowered.com/app/2280350/Turbo_Dismount_2/)                                                                                                                                 |
+| [Twin Shot Deluxe](https://store.steampowered.com/app/3618520/Twin_Shot_Deluxe/)                                                                                                                                  |
 | [UFO 50](https://store.steampowered.com/app/1147860/UFO_50/)                                                                                                                                                      |
 | [Ultimate Sheep Raccoon](https://store.steampowered.com/app/2923350/Ultimate_Sheep_Raccoon/)                                                                                                                      |
 | [Under The Waves](https://store.steampowered.com/app/1975440/Under_The_Waves/)                                                                                                                                    |
@@ -608,6 +631,8 @@ ________________________________________________________
 | [Wave Break](https://store.steampowered.com/app/761010/Wave_Break/)                                                                                                                                               |
 | [We Love Katamari REROLL+ Royal Reverie](https://store.steampowered.com/app/1730700/We_Love_Katamari_REROLL_Royal_Reverie/)                                                                                       |
 | [Windowkill](https://store.steampowered.com/app/2726450/Windowkill/)                                                                                                                                              |
+| [World War Z x The Walking Dead](https://store.steampowered.com/app/4057370/World_War_Z_x_The_Walking_Dead/)                                                                                                      |
+| [WorldBox - God Simulator](https://store.steampowered.com/app/1206560/WorldBox__God_Simulator/)                                                                                                                   |
 | [XENOTILT: HOSTILE PINBALL ACTION](https://store.steampowered.com/app/2008980/XENOTILT_HOSTILE_PINBALL_ACTION/)                                                                                                   |
 | [YEAH! YOU WANT "THOSE GAMES," RIGHT? SO HERE YOU GO! NOW, LET'S SEE YOU CLEAR THEM!](https://store.steampowered.com/app/2348100/YEAH_YOU_WANT_THOSE_GAMES_RIGHT_SO_HERE_YOU_GO_NOW_LETS_SEE_YOU_CLEAR_THEM/)     |
 | [YEAH! YOU WANT "THOSE GAMES," RIGHT? SO HERE YOU GO! NOW, LET'S SEE YOU CLEAR THEM! 2](https://store.steampowered.com/app/2744230/YEAH_YOU_WANT_THOSE_GAMES_RIGHT_SO_HERE_YOU_GO_NOW_LETS_SEE_YOU_CLEAR_THEM_2/) |
@@ -628,6 +653,7 @@ ________________________________________________________
 | Host & render your 3D Models in real time interactive 3D. | https://sketchfab.com/                                                     |
 | Generate common FFmpeg command-line operations.           | https://alfg.github.io/ffmpeg-commander/                                   |
 | Find the difference between two text files.               | https://www.diffchecker.com/                                               |
+| Minimalist text editor that lives in URL.                 | https://textarea.my/                                                       |
 ### Tutorials:
 | Description:                                                 | Website(s):                                                                                                                                                                                                                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -649,6 +675,8 @@ ________________________________________________________
 | Guide to setting up Sidestore + LiveContainer.               | https://gist.github.com/sinceohsix/688637ac04695d1ff38f844acc8ba7f3                                                                                                                                                                                          |
 | Hide VMs from malware.                                       | https://youtube.com/watch?v=-On6bWFXuM8                                                                                                                                                                                                                      |
 | Remove unavailable videos from YouTube watch later playlist. | https://www.youtube.com/watch?v=vTnPj4YQ0Tg                                                                                                                                                                                                                  |
+| Disable JavaScript optimization web browser feature.         | https://youtu.be/i7qlZeDt9o4                                                                                                                                                                                                                                 |
+| This Secret Button Fixes Amazon's Biggest Problem.           | https://youtu.be/yJxOasvhx0o                                                                                                                                                                                                                                 |
 ### Video:
 | Description:                                | Website(s):                                                          |
 | ------------------------------------------- | -------------------------------------------------------------------- |
