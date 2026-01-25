@@ -4,8 +4,10 @@
 | [3D Skills Start Here](https://store.steampowered.com/app/2836300/3D_Skills_Start_Here/)                                                                                                                          |
 | [4D Golf](https://store.steampowered.com/app/2147950/4D_Golf/)                                                                                                                                                    |
 | [4D Miner](https://store.steampowered.com/app/1941640/4D_Miner/)                                                                                                                                                  |
+| [4x4 in a Furniture Store](https://store.steampowered.com/app/4135570/4x4_in_a_Furniture_Store/)                                                                                                                  |
 | [5D Chess With Multiverse Time Travel](https://store.steampowered.com/app/1349230/5D_Chess_With_Multiverse_Time_Travel/)                                                                                          |
 | [007 First Light](https://store.steampowered.com/app/3768760/007_First_Light/)                                                                                                                                    |
+| [10hit](https://store.steampowered.com/app/3520410/10hit/)                                                                                                                                                        |
 | [22 Racing Series \| RTS-Racing](https://store.steampowered.com/app/422890/22_Racing_Series__RTSRacing/)                                                                                                          |
 | [A Pinball Game That Makes You Mad](https://store.steampowered.com/app/3796230/A_Pinball_Game_That_Makes_You_Mad/)                                                                                                |
 | [A Webbing Journey](https://store.steampowered.com/app/2073910/A_Webbing_Journey/)                                                                                                                                |
@@ -36,6 +38,7 @@
 | [Burgie's cozy kitchen](https://store.steampowered.com/app/3314340/Burgies_cozy_kitchen/)                                                                                                                         |
 | [Buster Jam](https://store.steampowered.com/app/3399240/Buster_Jam/)                                                                                                                                              |
 | [Cadence](https://store.steampowered.com/app/362800/Cadence/)                                                                                                                                                     |
+| [Cairn](https://store.steampowered.com/app/1588550/Cairn/)                                                                                                                                                        |
 | [CARNAL](https://store.steampowered.com/app/1586290/CARNAL/)                                                                                                                                                      |
 | [Castle Crashers - Painter Boss Paradise](https://store.steampowered.com/app/3133920/Castle_Crashers__Painter_Boss_Paradise/)                                                                                     |
 | [Catch Me If You Can](https://store.steampowered.com/app/839330/Catch_Me_If_You_Can/)                                                                                                                             |
@@ -71,9 +74,11 @@
 | [DREDGE](https://store.steampowered.com/app/1562430/DREDGE/)                                                                                                                                                      |
 | [Duel Corp.](https://store.steampowered.com/app/1804470/Duel_Corp/)                                                                                                                                               |
 | [Dwarf Fortress](https://store.steampowered.com/app/975370/Dwarf_Fortress/)                                                                                                                                       |
+| [Dwarf Fortress](https://store.steampowered.com/app/975370/Dwarf_Fortress/)                                                                                                                                       |
 | [Eco](https://store.steampowered.com/app/382310/Eco/)                                                                                                                                                             |
 | [Enter the Gungeon 2](https://store.steampowered.com/app/2339840/Enter_the_Gungeon_2/)                                                                                                                            |
 | [Eternity Egg](https://store.steampowered.com/app/1670690/Eternity_Egg/)                                                                                                                                          |
+| [Factory 95](https://store.steampowered.com/app/3987250/Factory_95/)                                                                                                                                              |
 | [Fallout 4 VR](https://store.steampowered.com/app/611660/Fallout_4_VR/)                                                                                                                                           |
 | [Far Cry 5](https://store.steampowered.com/app/552520/Far_Cry_5/)                                                                                                                                                 |
 | [Fireworks Mania - An Explosive Simulator](https://store.steampowered.com/app/1079260/Fireworks_Mania__An_Explosive_Simulator/)                                                                                   |
@@ -131,6 +136,7 @@
 | [Little Nightmares II](https://store.steampowered.com/app/860510/Little_Nightmares_II/)                                                                                                                           |
 | [Loddlenaut](https://store.steampowered.com/app/1644940/Loddlenaut/)                                                                                                                                              |
 | [Lost Potato](https://store.steampowered.com/app/1365010/Lost_Potato/)                                                                                                                                            |
+| [Lucid Blocks](https://store.steampowered.com/app/3495730/Lucid_Blocks/)                                                                                                                                          |
 | [Luck be a Landlord](https://store.steampowered.com/app/1404850/Luck_be_a_Landlord/)                                                                                                                              |
 | [Lucky Tower Ultimate](https://store.steampowered.com/app/1700270/Lucky_Tower_Ultimate/)                                                                                                                          |
 | [Mad Max](https://store.steampowered.com/app/234140/Mad_Max/)                                                                                                                                                     |
@@ -161,6 +167,7 @@
 | [Not For Broadcast VR](https://store.steampowered.com/app/2257770/Not_For_Broadcast_VR/)                                                                                                                          |
 | [Obsidian Conflict](https://store.steampowered.com/app/17750/Obsidian_Conflict/)                                                                                                                                  |
 | [OpenTTD](https://store.steampowered.com/app/1536610/OpenTTD/)                                                                                                                                                    |
+| [Out of Orbit](https://store.steampowered.com/app/1859990/Out_of_Orbit/)                                                                                                                                          |
 | [Out of Ore](https://store.steampowered.com/app/2009350/Out_of_Ore/)                                                                                                                                              |
 | [Oxygen Not Included](https://store.steampowered.com/app/457140/Oxygen_Not_Included/)                                                                                                                             |
 | [Palworld](https://store.steampowered.com/app/1623730/Palworld/)                                                                                                                                                  |
@@ -179,6 +186,7 @@
 | [Project Mix](https://store.steampowered.com/app/2439770/PROJECT_MIX/)                                                                                                                                            |
 | [Propnight](https://store.steampowered.com/app/1549180/Propnight/)                                                                                                                                                |
 | [Q-UP](https://store.steampowered.com/app/3730790/QUP/)                                                                                                                                                           |
+| [Race Jam](https://store.steampowered.com/app/3474450/Race_Jam/)                                                                                                                                                  |
 | [Ranch Simulator - Build, Farm, Hunt](https://store.steampowered.com/app/1119730/Ranch_Simulator_Build_Hunt_Farm/)                                                                                                |
 | [Ready or Not](https://store.steampowered.com/app/1144200/Ready_or_Not/)                                                                                                                                          |
 | [Remnant II](https://store.steampowered.com/app/1282100/REMNANT_II/)                                                                                                                                              |
@@ -230,6 +238,7 @@
 | [STUNTBOOST](https://store.steampowered.com/app/2999500/STUNTBOOST/)                                                                                                                                              |
 | [Subnautica 2](https://store.steampowered.com/app/1962700/Subnautica_2/)                                                                                                                                          |
 | [SULFUR](https://store.steampowered.com/app/2124120/SULFUR/)                                                                                                                                                      |
+| [Super Chipflake Ü: Quest for the Uncooked Schnitzel](https://store.steampowered.com/app/3064060/Super_Chipflake__Quest_for_the_Uncooked_Schnitzel/)                                                              |
 | [Swelter](https://store.steampowered.com/app/1815330/Swelter/)                                                                                                                                                    |
 | [SYNTHETIK 2](https://store.steampowered.com/app/1471410/SYNTHETIK_2/)                                                                                                                                            |
 | [TCG Card Shop Simulator](https://store.steampowered.com/app/3070070/TCG_Card_Shop_Simulator/)                                                                                                                    |
@@ -275,6 +284,7 @@
 | [Windowkill](https://store.steampowered.com/app/2726450/Windowkill/)                                                                                                                                              |
 | [World War Z x The Walking Dead](https://store.steampowered.com/app/4057370/World_War_Z_x_The_Walking_Dead/)                                                                                                      |
 | [WorldBox - God Simulator](https://store.steampowered.com/app/1206560/WorldBox__God_Simulator/)                                                                                                                   |
+| [Worming from Home](https://store.steampowered.com/app/3547270/Worming_from_Home/)                                                                                                                                |
 | [XENOTILT: HOSTILE PINBALL ACTION](https://store.steampowered.com/app/2008980/XENOTILT_HOSTILE_PINBALL_ACTION/)                                                                                                   |
 | [YEAH! YOU WANT "THOSE GAMES," RIGHT? SO HERE YOU GO! NOW, LET'S SEE YOU CLEAR THEM!](https://store.steampowered.com/app/2348100/YEAH_YOU_WANT_THOSE_GAMES_RIGHT_SO_HERE_YOU_GO_NOW_LETS_SEE_YOU_CLEAR_THEM/)     |
 | [YEAH! YOU WANT "THOSE GAMES," RIGHT? SO HERE YOU GO! NOW, LET'S SEE YOU CLEAR THEM! 2](https://store.steampowered.com/app/2744230/YEAH_YOU_WANT_THOSE_GAMES_RIGHT_SO_HERE_YOU_GO_NOW_LETS_SEE_YOU_CLEAR_THEM_2/) |
