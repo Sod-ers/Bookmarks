@@ -56,6 +56,7 @@
 | [Cult of the Lamb](https://store.steampowered.com/app/1313140/Cult_of_the_Lamb/)                                                                                                                                  |
 | [Dagger Directive](https://store.steampowered.com/app/2437670/Dagger_Directive/)                                                                                                                                  |
 | [Darkwood](https://store.steampowered.com/app/274520/Darkwood/)                                                                                                                                                   |
+| [DateBoy](https://store.steampowered.com/app/4022300/DateBoy/)                                                                                                                                                    |
 | [DAVE THE DIVER](https://store.steampowered.com/app/1868140/DAVE_THE_DIVER/)                                                                                                                                      |
 | [DayZ Badlands](https://store.steampowered.com/app/3816030/DayZ_Badlands/)                                                                                                                                        |
 | [Dead Pixels II](https://store.steampowered.com/app/259000/Dead_Pixels_II/)                                                                                                                                       |
@@ -79,6 +80,7 @@
 | [Enter the Gungeon 2](https://store.steampowered.com/app/2339840/Enter_the_Gungeon_2/)                                                                                                                            |
 | [Eternity Egg](https://store.steampowered.com/app/1670690/Eternity_Egg/)                                                                                                                                          |
 | [Factory 95](https://store.steampowered.com/app/3987250/Factory_95/)                                                                                                                                              |
+| [Factory Town 2: Paradise](https://store.steampowered.com/app/3312130/Factory_Town_2_Paradise/)                                                                                                                   |
 | [Fallout 4 VR](https://store.steampowered.com/app/611660/Fallout_4_VR/)                                                                                                                                           |
 | [Far Cry 5](https://store.steampowered.com/app/552520/Far_Cry_5/)                                                                                                                                                 |
 | [Fireworks Mania - An Explosive Simulator](https://store.steampowered.com/app/1079260/Fireworks_Mania__An_Explosive_Simulator/)                                                                                   |
@@ -128,6 +130,7 @@
 | [Killing Floor 2](https://store.steampowered.com/app/232090/Killing_Floor_2/)                                                                                                                                     |
 | [Kingdom Come: Deliverance II](https://store.steampowered.com/app/1771300/Kingdom_Come_Deliverance_II/)                                                                                                           |
 | [Kingdoms and Castles](https://store.steampowered.com/app/569480/Kingdoms_and_Castles/)                                                                                                                           |
+| [KYORA](https://store.steampowered.com/app/3337850/KYORA/)                                                                                                                                                        |
 | [L.A. Noire](https://store.steampowered.com/app/110800/LA_Noire/)                                                                                                                                                 |
 | [Lambda Fortress](https://store.steampowered.com/app/3564500/Lambda_Fortress/)                                                                                                                                    |
 | [LEGO® 2K Drive](https://store.steampowered.com/app/1451810/LEGO_2K_Drive/)                                                                                                                                       |
@@ -217,6 +220,7 @@
 | [Skin Deep](https://store.steampowered.com/app/301280/Skin_Deep/)                                                                                                                                                 |
 | [Slackers - Carts of Glory](https://store.steampowered.com/app/2354000/Slackers__Carts_of_Glory/)                                                                                                                 |
 | [Slots & Daggers](https://store.steampowered.com/app/3631290/Slots__Daggers/)                                                                                                                                     |
+| [Something Beautiful](https://store.steampowered.com/app/4041730/Something_Beautiful/)                                                                                                                            |
 | [Sons Of The Forest](https://store.steampowered.com/app/1326470/Sons_Of_The_Forest/)                                                                                                                              |
 | [Space Gladiators](https://store.steampowered.com/app/1144910/Space_Gladiators/)                                                                                                                                  |
 | [Space Pirate Trainer](https://store.steampowered.com/app/418650/Space_Pirate_Trainer/)                                                                                                                           |
@@ -243,6 +247,7 @@
 | [SYNTHETIK 2](https://store.steampowered.com/app/1471410/SYNTHETIK_2/)                                                                                                                                            |
 | [TCG Card Shop Simulator](https://store.steampowered.com/app/3070070/TCG_Card_Shop_Simulator/)                                                                                                                    |
 | [Team Fortress 2 Classic](https://store.steampowered.com/app/3545060/Team_Fortress_2_Classic/)                                                                                                                    |
+| [Team Fortress 2 Classified](https://store.steampowered.com/app/3545060/Team_Fortress_2_Classified/)                                                                                                              |
 | [Terra Firma 2](https://store.steampowered.com/app/3422270/Terra_Firma_2/)                                                                                                                                        |
 | [The Anacrusis](https://store.steampowered.com/app/1120480/The_Anacrusis/)                                                                                                                                        |
 | [The Break-In](https://store.steampowered.com/app/1397390/The_BreakIn/)                                                                                                                                           |
