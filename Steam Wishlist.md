@@ -28,6 +28,7 @@
 | [Barony](https://store.steampowered.com/app/371970/Barony/)                                                                                                                                                       |
 | [Battlefield™ 6](https://store.steampowered.com/app/2807960/Battlefield_6/)                                                                                                                                       |
 | [Big Walk](https://store.steampowered.com/app/1478500/Big_Walk/)                                                                                                                                                  |
+| [Biofactory](https://store.steampowered.com/app/3469420/Biofactory/)                                                                                                                                              |
 | [Blockworks](https://store.steampowered.com/app/1825970/Blockworks/)                                                                                                                                              |
 | [Bodycam](https://store.steampowered.com/app/2406770/Bodycam/)                                                                                                                                                    |
 | [BONELAB](https://store.steampowered.com/app/1592190/BONELAB/)                                                                                                                                                    |
@@ -36,9 +37,11 @@
 | [Brotato](https://store.steampowered.com/app/1942280/Brotato/)                                                                                                                                                    |
 | [Bully: Scholarship Edition](https://store.steampowered.com/app/12200/Bully_Scholarship_Edition/)                                                                                                                 |
 | [Burgie's cozy kitchen](https://store.steampowered.com/app/3314340/Burgies_cozy_kitchen/)                                                                                                                         |
+| [Burglin' Gnomes](https://store.steampowered.com/app/3844970/Burglin_Gnomes/)                                                                                                                                     |
 | [Buster Jam](https://store.steampowered.com/app/3399240/Buster_Jam/)                                                                                                                                              |
 | [Cadence](https://store.steampowered.com/app/362800/Cadence/)                                                                                                                                                     |
 | [Cairn](https://store.steampowered.com/app/1588550/Cairn/)                                                                                                                                                        |
+| [CAPTCHA Hell](https://store.steampowered.com/app/4310270/CAPTCHA_Hell/)                                                                                                                                          |
 | [CARNAL](https://store.steampowered.com/app/1586290/CARNAL/)                                                                                                                                                      |
 | [Castle Crashers - Painter Boss Paradise](https://store.steampowered.com/app/3133920/Castle_Crashers__Painter_Boss_Paradise/)                                                                                     |
 | [Catch Me If You Can](https://store.steampowered.com/app/839330/Catch_Me_If_You_Can/)                                                                                                                             |
@@ -48,6 +51,7 @@
 | [Choo-Choo Charles](https://store.steampowered.com/app/1766740/ChooChoo_Charles/)                                                                                                                                 |
 | [Chromatic Conundrum](https://store.steampowered.com/app/3081690/Chromatic_Conundrum/)                                                                                                                            |
 | [Combat Master: Season 1](https://store.steampowered.com/app/2281730/Combat_Master_Season_1/)                                                                                                                     |
+| [Contact Protocol](https://store.steampowered.com/app/3846690/Contact_Protocol/)                                                                                                                                  |
 | [Contractors](https://store.steampowered.com/app/963930/Contractors/)                                                                                                                                             |
 | [Cookie Clicker](https://store.steampowered.com/app/1454400/Cookie_Clicker/)                                                                                                                                      |
 | [Core Keeper](https://store.steampowered.com/app/1621690/Core_Keeper/)                                                                                                                                            |
@@ -74,7 +78,6 @@
 | [DR LIVESEY ROM AND DEATH EDITION](https://store.steampowered.com/app/2181930/DR_LIVESEY_ROM_AND_DEATH_EDITION/)                                                                                                  |
 | [DREDGE](https://store.steampowered.com/app/1562430/DREDGE/)                                                                                                                                                      |
 | [Duel Corp.](https://store.steampowered.com/app/1804470/Duel_Corp/)                                                                                                                                               |
-| [Dwarf Fortress](https://store.steampowered.com/app/975370/Dwarf_Fortress/)                                                                                                                                       |
 | [Dwarf Fortress](https://store.steampowered.com/app/975370/Dwarf_Fortress/)                                                                                                                                       |
 | [Eco](https://store.steampowered.com/app/382310/Eco/)                                                                                                                                                             |
 | [Enter the Gungeon 2](https://store.steampowered.com/app/2339840/Enter_the_Gungeon_2/)                                                                                                                            |
@@ -125,6 +128,7 @@
 | [JellyCar Worlds](https://store.steampowered.com/app/1740930/JellyCar_Worlds/)                                                                                                                                    |
 | [JOY OF PROGRAMMING - Software Engineering Simulator](https://store.steampowered.com/app/2216770/JOY_OF_PROGRAMMING__Software_Engineering_Simulator/)                                                             |
 | [JUNKPUNK](https://store.steampowered.com/app/1585020/JUNKPUNK/)                                                                                                                                                  |
+| [KEEP GAMBLING](https://store.steampowered.com/app/3720460/KEEP_GAMBLING/)                                                                                                                                        |
 | [Kenshi](https://store.steampowered.com/app/233860/Kenshi/)                                                                                                                                                       |
 | [Kerbal Space Program 2](https://store.steampowered.com/app/954850/Kerbal_Space_Program_2/)                                                                                                                       |
 | [Killing Floor 2](https://store.steampowered.com/app/232090/Killing_Floor_2/)                                                                                                                                     |
@@ -157,6 +161,7 @@
 | [Mirror's Edge™ Catalyst](https://store.steampowered.com/app/1233570/Mirrors_Edge_Catalyst/)                                                                                                                      |
 | [Miss Paint](https://store.steampowered.com/app/2755990/Miss_Paint/)                                                                                                                                              |
 | [Mix Universe](https://store.steampowered.com/app/1654810/Mix_Universe/)                                                                                                                                          |
+| [MMO98](https://store.steampowered.com/app/3907940/MMO98/)                                                                                                                                                        |
 | [Modulus](https://store.steampowered.com/app/2779120/Modulus/)                                                                                                                                                    |
 | [Momentum Mod](https://store.steampowered.com/app/669270/Momentum_Mod/)                                                                                                                                           |
 | [Moonstone Island](https://store.steampowered.com/app/1658150/Moonstone_Island/)                                                                                                                                  |
@@ -221,6 +226,7 @@
 | [Slackers - Carts of Glory](https://store.steampowered.com/app/2354000/Slackers__Carts_of_Glory/)                                                                                                                 |
 | [Slots & Daggers](https://store.steampowered.com/app/3631290/Slots__Daggers/)                                                                                                                                     |
 | [Something Beautiful](https://store.steampowered.com/app/4041730/Something_Beautiful/)                                                                                                                            |
+| [SongRunner](https://store.steampowered.com/app/4100770/SongRunner/)                                                                                                                                              |
 | [Sons Of The Forest](https://store.steampowered.com/app/1326470/Sons_Of_The_Forest/)                                                                                                                              |
 | [Space Gladiators](https://store.steampowered.com/app/1144910/Space_Gladiators/)                                                                                                                                  |
 | [Space Pirate Trainer](https://store.steampowered.com/app/418650/Space_Pirate_Trainer/)                                                                                                                           |
@@ -229,6 +235,7 @@
 | [Spellmasons](https://store.steampowered.com/app/1618380/Spellmasons/)                                                                                                                                            |
 | [Spelunker Party](https://store.steampowered.com/app/629860/Spelunker_Party/)                                                                                                                                     |
 | [Spelunky 2](https://store.steampowered.com/app/418530/Spelunky_2/)                                                                                                                                               |
+| [Squirmbox](https://store.steampowered.com/app/3808130/Squirmbox/)                                                                                                                                                |
 | [Squirrel Stapler](https://store.steampowered.com/app/2535830/Squirrel_Stapler/)                                                                                                                                  |
 | [Squirrel with a Gun](https://store.steampowered.com/app/2067050/Squirrel_with_a_Gun/)                                                                                                                            |
 | [Star Trucker](https://store.steampowered.com/app/2380050/Star_Trucker/)                                                                                                                                          |
@@ -244,6 +251,7 @@
 | [SULFUR](https://store.steampowered.com/app/2124120/SULFUR/)                                                                                                                                                      |
 | [Super Chipflake Ü: Quest for the Uncooked Schnitzel](https://store.steampowered.com/app/3064060/Super_Chipflake__Quest_for_the_Uncooked_Schnitzel/)                                                              |
 | [Swelter](https://store.steampowered.com/app/1815330/Swelter/)                                                                                                                                                    |
+| [Syncblade](https://store.steampowered.com/app/4043810/Syncblade/)                                                                                                                                                |
 | [SYNTHETIK 2](https://store.steampowered.com/app/1471410/SYNTHETIK_2/)                                                                                                                                            |
 | [TCG Card Shop Simulator](https://store.steampowered.com/app/3070070/TCG_Card_Shop_Simulator/)                                                                                                                    |
 | [Team Fortress 2 Classic](https://store.steampowered.com/app/3545060/Team_Fortress_2_Classic/)                                                                                                                    |
@@ -287,6 +295,7 @@
 | [Wave Break](https://store.steampowered.com/app/761010/Wave_Break/)                                                                                                                                               |
 | [We Love Katamari REROLL+ Royal Reverie](https://store.steampowered.com/app/1730700/We_Love_Katamari_REROLL_Royal_Reverie/)                                                                                       |
 | [Windowkill](https://store.steampowered.com/app/2726450/Windowkill/)                                                                                                                                              |
+| [WORLD OF DOGS](https://store.steampowered.com/app/3703360/WORLD_OF_DOGS/)                                                                                                                                        |
 | [World War Z x The Walking Dead](https://store.steampowered.com/app/4057370/World_War_Z_x_The_Walking_Dead/)                                                                                                      |
 | [WorldBox - God Simulator](https://store.steampowered.com/app/1206560/WorldBox__God_Simulator/)                                                                                                                   |
 | [Worming from Home](https://store.steampowered.com/app/3547270/Worming_from_Home/)                                                                                                                                |

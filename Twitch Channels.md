@@ -113,6 +113,7 @@ ________________________________________________________
 | ------------------------------------------------------ | --------------------------------------------- |
 | [ChrisTitusTech](https://www.twitch.tv/christitustech) | The Windows Utility guy & Linux advocate.     |
 | [georgehotz](https://www.twitch.tv/georgehotz)         | -                                             |
+| [PartsPeople](https://www.twitch.tv/partspeople)       | Dell & Alienware laptop repair.               |
 | [TechTangents](https://www.twitch.tv/techtangents)     | Vintage computers, education, & preservation. |
 ### Travel:
 | Channel:                                   | About:                                        |
