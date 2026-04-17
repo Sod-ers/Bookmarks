@@ -73,16 +73,17 @@ ________________________________________________________
 | [witwix](https://www.twitch.tv/witwix)                   | -                                                                                                         |
 | [ZeldaMarathonTV](https://www.twitch.tv/zeldamarathontv) | Nonstop journey through Hyrule!                                                                           |
 ### IRL:
-| Channel:                                               | About:                                                 |
-| ------------------------------------------------------ | ------------------------------------------------------ |
-| [ALLDAYNYC](https://www.twitch.tv/alldaynyc)           | NYC.                                                   |
-| [jidionpremium](https://www.twitch.tv/jidionpremium)   | Catches child predators.                               |
-| [KumaMonster](https://www.twitch.tv/kumamonster)       | NYC.                                                   |
-| [MARI](https://www.twitch.tv/mari)                     | -                                                      |
-| [martymorua](https://www.twitch.tv/martymorua)         | NYC daily Live-streamer & Manhattan Real-Estate agent. |
-| [MeesterKeem](https://www.twitch.tv/meesterkeem)       | Exploring NYC & beyond.                                |
-| [StephenIRL](https://www.twitch.tv/stephenirl)         | -                                                      |
-| [TheSushiDragon](https://www.twitch.tv/thesushidragon) | -                                                      |
+| Channel:                                                   | About:                                                 |
+| ---------------------------------------------------------- | ------------------------------------------------------ |
+| [ALLDAYNYC](https://www.twitch.tv/alldaynyc)               | NYC.                                                   |
+| [elythepeoplesguy](https://www.twitch.tv/elythepeoplesguy) | The people's guy.                                      |
+| [jidionpremium](https://www.twitch.tv/jidionpremium)       | Catches child predators.                               |
+| [KumaMonster](https://www.twitch.tv/kumamonster)           | NYC.                                                   |
+| [MARI](https://www.twitch.tv/mari)                         | -                                                      |
+| [martymorua](https://www.twitch.tv/martymorua)             | NYC daily Live-streamer & Manhattan Real-Estate agent. |
+| [MeesterKeem](https://www.twitch.tv/meesterkeem)           | Exploring NYC & beyond.                                |
+| [StephenIRL](https://www.twitch.tv/stephenirl)             | -                                                      |
+| [TheSushiDragon](https://www.twitch.tv/thesushidragon)     | -                                                      |
 ### Misc:
 | Channel:                                                     | About:                      |
 | ------------------------------------------------------------ | --------------------------- |
