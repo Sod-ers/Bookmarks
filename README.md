@@ -48,6 +48,7 @@ ________________________________________________________
 | Simple test to determine if your DNS requests are being leaked which may represent a critical privacy threat. | https://dnsleaktest.com/                         |
 | Accurate online clock.                                                                                        | https://time.is/                                 |
 | Analyze number of fake GitHub stars on any GitHub repository.                                                 | https://github.com/dagster-io/fake-star-detector |
+| Analyze ticks.                                                                                                | https://www.ticklab.org/                         |
 ### Education:
 | Description:                                                                                               | Website(s):                                                                     |
 | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
@@ -80,6 +81,7 @@ ________________________________________________________
 | Experimental webgl gallery that can visualize tens of thousands of film posters as a voronoi diagram.                    | https://nothing-to-watch.port80.ch/                         |
 | Origami simulator driven by a physical hinge.                                                                            | https://maxwase.github.io/kami/                             |
 | Drawing as a physics experiment.                                                                                         | https://cpreid2.github.io/blobSketch/                       |
+| Online Omnichord.                                                                                                        | https://onlineomnichord.com/                                |
 ### Games:
 | Title:                                                                                                                                    |
 | ----------------------------------------------------------------------------------------------------------------------------------------- |
@@ -96,6 +98,7 @@ ________________________________________________________
 | [Don't Starve: Nintendo Switch Edition](https://www.nintendo.com/us/store/products/dont-starve-nintendo-switch-edition-switch/)           |
 | [Fivem](https://fivem.net/)                                                                                                               |
 | [Floating Sandbox](https://floatingsandbox.com/)                                                                                          |
+| [Friday Night Funkin'](https://github.com/FunkinCrew/Funkin)                                                                              |
 | [Futurama: Hit & Run](https://modbakery.donutteam.com/projects/view/48)                                                                   |
 | [GoldenEye: Source](https://www.geshl2.com/)                                                                                              |
 | [Graveyard Keeper](https://www.nintendo.com/us/store/products/graveyard-keeper-switch/)                                                   |
@@ -171,6 +174,7 @@ ________________________________________________________
 | BeamNG real-world terrain toolkit.                                                                              | https://mapng.com/                                                                                                                                                                                                                                                                                                                                                                                  |
 | Disable Easy Anti-Cheat in trialsrising.exe so that the game works on Linux + Steam Deck.                       | https://github.com/kylefmohr/Trials-Rising-Steam-Deck-Patch                                                                                                                                                                                                                                                                                                                                         |
 | Fixes/workarounds for PC games.                                                                                 | https://www.pcgamingwiki.com/wiki/Home                                                                                                                                                                                                                                                                                                                                                              |
+| DriftGuard - Fix stickdrift & save changes to firmware.                                                         | https://driftguard.app/#dashboard                                                                                                                                                                                                                                                                                                                                                                   |
 ### Linux:
 | Description:                                                                                                         | Website(s):                                                                                                                                                                                                                                                                                                                                                                                        |
 | -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -293,6 +297,7 @@ ________________________________________________________
 | Remove last character from string.                                                                                   | https://www.geeksforgeeks.org/linux-unix/remove-last-character-from-string-in-linux/                                                                                                                                                                                                                                                                                                               |
 | Audio cheat sheets.                                                                                                  | https://blog.programster.org/audio-cli-cheatsheet<br>https://gist.github.com/afondiel/4e863c2f5af5ca566a33314b97e524d7/b3cb06722856d4fbce83d50b3ff6e502a2093083                                                                                                                                                                                                                                    |
 | Journalctl cheat sheet.                                                                                              | https://gist.github.com/sergeyklay/f401dbc8286f732783e05072f03ecb61                                                                                                                                                                                                                                                                                                                                |
+| Why don't I see any KVM domains when I run virsh through ssh?<br><br>Cannot execute Virsh command through SSH.       | https://unix.stackexchange.com/questions/732254/why-dont-i-see-any-kvm-domains-when-i-run-virsh-through-ssh/732255#732255<br>https://askubuntu.com/questions/1066230/cannot-execute-virsh-command-through-ssh-on-ubuntu-18-04/1067050#1067050                                                                                                                                                      |
 ### Lists:
 | Description:                                                                  | Website(s):                                                                                                                                                                                                                                      |
 | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -316,21 +321,24 @@ ________________________________________________________
 | Radio awesome lists.                                                          | https://github.com/deroverda/recommended-radio-streams<br>https://github.com/Pulham/Internet-Radio-HQ-URL-playlists<br>https://gist.github.com/casaper/ddec35d21a0158628fccbab7876b7ef3<br>https://github.com/junguler/m3u-radio-music-playlists |
 | Awesome GTK apps.                                                             | https://github.com/valpackett/awesome-gtk                                                                                                                                                                                                        |
 ### Misc:
-| Description:                                                       | Website(s):                               |
-| ------------------------------------------------------------------ | ----------------------------------------- |
-| Downloads extensions for Chromium-based browsers.                  | https://www.ungoogledextensions.com/      |
-| Tool inserts made in one click.                                    | https://www.tooltrace.ai/                 |
-| Discounted UPS & USPS shipping labels.                             | https://www.pirateship.com/               |
-| New Windows "Edit" command.                                        | https://youtu.be/qYd99vGSgQ4              |
-| Invisible unicode character, compatible with iOS shortcuts & Bash. | https://www.compart.com/en/unicode/U+2800 |
-| Rent kiln space near you.                                          | https://www.kilnshare.com/                |
-| User scripts.                                                      | https://greasyfork.org/                   |
+| Description:                                                       | Website(s):                                                                                               |
+| ------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------- |
+| Downloads extensions for Chromium-based browsers.                  | https://www.ungoogledextensions.com/                                                                      |
+| Tool inserts made in one click.                                    | https://www.tooltrace.ai/                                                                                 |
+| Discounted UPS & USPS shipping labels.                             | https://www.pirateship.com/                                                                               |
+| New Windows "Edit" command.                                        | https://youtu.be/qYd99vGSgQ4                                                                              |
+| Invisible unicode character, compatible with iOS shortcuts & Bash. | https://www.compart.com/en/unicode/U+2800                                                                 |
+| Rent kiln space near you.                                          | https://www.kilnshare.com/                                                                                |
+| User scripts.                                                      | https://greasyfork.org/                                                                                   |
+| User styles.                                                       | https://userstyles.world/explore                                                                          |
+| Apple fonts.                                                       | https://github.com/sahibjotsaggu/San-Francisco-Pro-Fonts<br>https://github.com/supercomputra/SF-Mono-Font |
 ### Notes:
 | Description:                                   | Website(s):                                                         |
 | ---------------------------------------------- | ------------------------------------------------------------------- |
 | Steam screenshot directory.                    | https://steamcommunity.com/discussions/forum/0/3177855357749495486/ |
 | Complete list of iOS settings app url schemes. | https://github.com/1mehdifaraji/ios-settings-url-schemes            |
 | GTK CSS properties.                            | https://docs.gtk.org/gtk3/css-properties.html                       |
+| Subtitle color palette.                        | https://www.color-hex.com/color-palette/1033349                     |
 ### Picture:
 | Description:                                                                                               | Website(s):                                                                                |
 | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
@@ -359,6 +367,7 @@ ________________________________________________________
 | Hosts file to block unwanted connections systematically.                                                                                   | https://someonewhocares.org/hosts/                                                             |
 | Adobe URL/IP block list for the host file.                                                                                                 | https://github.com/Ruddernation-Designs/Adobe-URL-Block-List                                   |
 | Scan files/URLs for malware.                                                                                                               | https://www.virustotal.com/gui/home/upload                                                     |
+| Malware analysis sandbox.                                                                                                                  | https://app.any.run/                                                                           |
 | Malware analyzer that can return the configuration of a file statically.                                                                   | https://www.uncoverit.org/                                                                     |
 | Check your browser fingerprint.                                                                                                            | https://amiunique.org/                                                                         |
 | Firefox hardening guides.                                                                                                                  | https://brainfucksec.github.io/firefox-hardening-guide<br>https://github.com/pyllyukko/user.js |
@@ -372,6 +381,7 @@ ________________________________________________________
 | Automatically clean up your old posts/messages.                                                                                            | https://redact.dev/                                                                            |
 | Check if your email has been compromised in a data breach.                                                                                 | https://haveibeenpwned.com/                                                                    |
 | Delete all messages in a Discord channel or DM.                                                                                            | https://victornpb.github.io/undiscord/                                                         |
+| Privacy first PDF toolkit.                                                                                                                 | https://www.bentopdf.com/form-creator                                                          |
 ### Reading:
 | Description:                                             | Website(s):                     |
 | -------------------------------------------------------- | ------------------------------- |
@@ -395,6 +405,8 @@ ________________________________________________________
 | Privacy-respecting, open source & secure TV ecosystem.                                           | https://plasma-bigscreen.org/                         |
 | Redeem My Nintendo Platinum Points.                                                              | https://www.nintendo.com/us/store/exclusives/rewards/ |
 | Open Printer: Open-source, repairable inkjet printer.                                            | https://www.crowdsupply.com/open-tools/open-printer   |
+| Compare internet & TV deals.                                                                     | https://www.providercheck.net/                        |
+| Find out where to watch movies/shows.                                                            | https://www.justwatch.com/us                          |
 ### Social:
 | Description:                                 | Website(s):                     |
 | -------------------------------------------- | ------------------------------- |
@@ -402,28 +414,33 @@ ________________________________________________________
 | Lookup & convert your steamID.               | https://steamid.io/lookup/      |
 | Unofficial Discord lookup tool.              | https://discord.id/             |
 ### Tools:
-| Description:                                                                 | Website(s):                                                                |
-| ---------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| Get metadata from a YouTube URL.                                             | https://mattw.io/youtube-metadata/                                         |
-| Unsubscribe from all YouTube channels script.                                | https://www.howtogeek.com/unsubscribe-from-all-youtube-channels-in-one-go/ |
-| Export your YouTube playlist data to CSV file.                               | https://jolantahuba.github.io/YT-Backup/                                   |
-| A tool to help you visualize privacy policies.                               | https://rejectconvenience.com/privacy-visualizer/                          |
-| Create, fill, & sign digital documents.                                      | https://www.docuseal.com/                                                  |
-| Create a bibliography in any citation style.                                 | https://zbib.org/                                                          |
-| Shows all the plugins used in a Ableton .als file.                           | https://www.pluginhell.io/                                                 |
-| A simple way to share Jupyter Notebooks.                                     | https://nbviewer.org/                                                      |
-| Various tools.                                                               | https://tools-unite.com/tools                                              |
-| Generate common FFmpeg command-line operations.                              | https://alfg.github.io/ffmpeg-commander/                                   |
-| Compare & find the difference between two text files.                        | https://www.diffchecker.com/                                               |
-| Minimalist text editor that lives in URL.                                    | https://textarea.my/                                                       |
-| OKLCH color picker.                                                          | https://oklch.com/                                                         |
-| android.graphics.Color color picker.                                         | https://encycolorpedia.com/606060                                          |
-| Random object generator.                                                     | https://perchance.org/object                                               |
-| Simulate arduinos, integrated circuits, capacitors, transistors & much more. | https://www.withdiode.com/                                                 |
-| Full-screen simulation & visual tool.                                        | https://www.whitescreen.online/                                            |
-| Find YouTube videos uploaded during a certain time.                          | https://dross.cc/yttimemachine/                                            |
-| Generate unique, scanable SVG barcodes.                                      | https://barkod.studio/                                                     |
-| Convert a temperature in Kelvin into a RGB colour.                           | https://academo.org/demos/colour-temperature-relationship/                 |
+| Description:                                                                 | Website(s):                                                                        |
+| ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| Get metadata from a YouTube URL.                                             | https://mattw.io/youtube-metadata/                                                 |
+| Unsubscribe from all YouTube channels script.                                | https://www.howtogeek.com/unsubscribe-from-all-youtube-channels-in-one-go/         |
+| Export your YouTube playlist data to CSV file.                               | https://jolantahuba.github.io/YT-Backup/                                           |
+| A tool to help you visualize privacy policies.                               | https://rejectconvenience.com/privacy-visualizer/                                  |
+| Create, fill, & sign digital documents.                                      | https://www.docuseal.com/                                                          |
+| Create a bibliography in any citation style.                                 | https://zbib.org/                                                                  |
+| Shows all the plugins used in a Ableton .als file.                           | https://www.pluginhell.io/                                                         |
+| A simple way to share Jupyter Notebooks.                                     | https://nbviewer.org/                                                              |
+| Various tools.                                                               | https://tools-unite.com/tools                                                      |
+| Generate common FFmpeg command-line operations.                              | https://alfg.github.io/ffmpeg-commander/                                           |
+| Compare & find the difference between two text files.                        | https://www.diffchecker.com/                                                       |
+| Minimalist text editor that lives in URL.                                    | https://textarea.my/                                                               |
+| OKLCH color picker.                                                          | https://oklch.com/                                                                 |
+| android.graphics.Color color picker.                                         | https://encycolorpedia.com/606060                                                  |
+| Random object generator.                                                     | https://perchance.org/object                                                       |
+| Simulate arduinos, integrated circuits, capacitors, transistors & much more. | https://www.withdiode.com/                                                         |
+| Full-screen simulation & visual tool.                                        | https://www.whitescreen.online/                                                    |
+| Find YouTube videos uploaded during a certain time.                          | https://dross.cc/yttimemachine/                                                    |
+| Generate unique, scanable SVG barcodes.                                      | https://barkod.studio/                                                             |
+| Convert a temperature in Kelvin into a RGB colour.                           | https://academo.org/demos/colour-temperature-relationship/                         |
+| Collection of small tools.                                                   | https://tools.rmv.fyi/                                                             |
+| Type any quote, watch the scenes.                                            | https://www.playphrase.me/                                                         |
+| Truly universal online file converter.                                       | https://p2r3.github.io/convert/                                                    |
+| ARGB color converter.                                                        | https://www.myfixguide.com/color-converter/                                        |
+| Virtual whiteboard for sketching hand-drawn like diagrams.                   | https://excalidraw.com/<br>https://github.com/zsviczian/obsidian-excalidraw-plugin |
 ### Tutorials:
 | Description:                                                     | Website(s):                                                                                                                                                                                                                                                  |
 | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

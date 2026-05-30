@@ -27,6 +27,8 @@
 | [Ballistic.exe](https://store.steampowered.com/app/3432980/Ballisticexe/)                                                                                                                                         |
 | [Barony](https://store.steampowered.com/app/371970/Barony/)                                                                                                                                                       |
 | [Battlefield™ 6](https://store.steampowered.com/app/2807960/Battlefield_6/)                                                                                                                                       |
+| [Beat For Speed](https://store.steampowered.com/app/4430260/Beat_For_Speed/)                                                                                                                                      |
+| [Besiege: The Broken Beyond](https://store.steampowered.com/app/3639470/Besiege_The_Broken_Beyond/)                                                                                                               |
 | [Big Walk](https://store.steampowered.com/app/1478500/Big_Walk/)                                                                                                                                                  |
 | [Biofactory](https://store.steampowered.com/app/3469420/Biofactory/)                                                                                                                                              |
 | [Blockworks](https://store.steampowered.com/app/1825970/Blockworks/)                                                                                                                                              |
@@ -55,6 +57,7 @@
 | [Contractors](https://store.steampowered.com/app/963930/Contractors/)                                                                                                                                             |
 | [Cookie Clicker](https://store.steampowered.com/app/1454400/Cookie_Clicker/)                                                                                                                                      |
 | [Core Keeper](https://store.steampowered.com/app/1621690/Core_Keeper/)                                                                                                                                            |
+| [Cozy Game Restoration](https://store.steampowered.com/app/3581230/Cozy_Game_Restoration/)                                                                                                                        |
 | [Crab Champions](https://store.steampowered.com/app/774801/Crab_Champions/)                                                                                                                                       |
 | [CRUMB Circuit Simulator](https://store.steampowered.com/app/2198800/CRUMB_Circuit_Simulator/)                                                                                                                    |
 | [Cult of the Lamb](https://store.steampowered.com/app/1313140/Cult_of_the_Lamb/)                                                                                                                                  |
@@ -76,6 +79,7 @@
 | [DisplayFusion](https://store.steampowered.com/app/227260/DisplayFusion/)                                                                                                                                         |
 | [DOOM + DOOM II](https://store.steampowered.com/app/2280/DOOM__DOOM_II/)                                                                                                                                          |
 | [DR LIVESEY ROM AND DEATH EDITION](https://store.steampowered.com/app/2181930/DR_LIVESEY_ROM_AND_DEATH_EDITION/)                                                                                                  |
+| [DrainSim](https://store.steampowered.com/app/2963800/DrainSim/)                                                                                                                                                  |
 | [DREDGE](https://store.steampowered.com/app/1562430/DREDGE/)                                                                                                                                                      |
 | [Duel Corp.](https://store.steampowered.com/app/1804470/Duel_Corp/)                                                                                                                                               |
 | [Dwarf Fortress](https://store.steampowered.com/app/975370/Dwarf_Fortress/)                                                                                                                                       |
@@ -117,6 +121,7 @@
 | [Hitman: Blood Money](https://store.steampowered.com/app/6860/Hitman_Blood_Money/)                                                                                                                                |
 | [Hollow Knight: Silksong](https://store.steampowered.com/app/1030300/Hollow_Knight_Silksong/)                                                                                                                     |
 | [Holstin](https://store.steampowered.com/app/2235430/Holstin/)                                                                                                                                                    |
+| [Hoop Land](https://store.steampowered.com/app/2453660/Hoop_Land/)                                                                                                                                                |
 | [HYPERCHARGE: Unboxed](https://store.steampowered.com/app/523660/HYPERCHARGE_Unboxed/)                                                                                                                            |
 | [If Red Then Stop](https://store.steampowered.com/app/3987060/If_Red_Then_Stop/)                                                                                                                                  |
 | [INMOST](https://store.steampowered.com/app/938560/INMOST/)                                                                                                                                                       |
@@ -132,6 +137,7 @@
 | [Kenshi](https://store.steampowered.com/app/233860/Kenshi/)                                                                                                                                                       |
 | [Kerbal Space Program 2](https://store.steampowered.com/app/954850/Kerbal_Space_Program_2/)                                                                                                                       |
 | [Killing Floor 2](https://store.steampowered.com/app/232090/Killing_Floor_2/)                                                                                                                                     |
+| [Kiln](https://store.steampowered.com/app/1165990/Kiln/)                                                                                                                                                          |
 | [Kingdom Come: Deliverance II](https://store.steampowered.com/app/1771300/Kingdom_Come_Deliverance_II/)                                                                                                           |
 | [Kingdoms and Castles](https://store.steampowered.com/app/569480/Kingdoms_and_Castles/)                                                                                                                           |
 | [KYORA](https://store.steampowered.com/app/3337850/KYORA/)                                                                                                                                                        |
@@ -183,6 +189,7 @@
 | [Party Animals](https://store.steampowered.com/app/1260320/Party_Animals/)                                                                                                                                        |
 | [Pinball FX3 - Williams™ Pinball: Volume 5](https://store.steampowered.com/app/1203510/Pinball_FX3__Williams_Pinball_Volume_5/)                                                                                   |
 | [Pinball FX3 - Williams™ Pinball: Volume 6](https://store.steampowered.com/app/1450220/Pinball_FX3__Williams_Pinball_Volume_6/)                                                                                   |
+| [Pirates Vikings & Knights II](https://store.steampowered.com/app/17570/Pirates_Vikings__Knights_II/)                                                                                                             |
 | [Pixel Gun 3D: PC Edition](https://store.steampowered.com/app/2524890/Pixel_Gun_3D_PC_Edition/)                                                                                                                   |
 | [Pixel Piracy Online](https://store.steampowered.com/app/2446520/Pixel_Piracy_Online/)                                                                                                                            |
 | [Pizza Tower](https://store.steampowered.com/app/2231450/Pizza_Tower/)                                                                                                                                            |
@@ -193,6 +200,7 @@
 | [Progressbar95](https://store.steampowered.com/app/1304550/Progressbar95/)                                                                                                                                        |
 | [Project Mix](https://store.steampowered.com/app/2439770/PROJECT_MIX/)                                                                                                                                            |
 | [Propnight](https://store.steampowered.com/app/1549180/Propnight/)                                                                                                                                                |
+| [Puck](https://store.steampowered.com/app/2994020/Puck/)                                                                                                                                                          |
 | [Q-UP](https://store.steampowered.com/app/3730790/QUP/)                                                                                                                                                           |
 | [Race Jam](https://store.steampowered.com/app/3474450/Race_Jam/)                                                                                                                                                  |
 | [Ranch Simulator - Build, Farm, Hunt](https://store.steampowered.com/app/1119730/Ranch_Simulator_Build_Hunt_Farm/)                                                                                                |
@@ -270,6 +278,7 @@
 | [The Trolley Solution](https://store.steampowered.com/app/3219410/The_Trolley_Solution/)                                                                                                                          |
 | [The Wandering Village](https://store.steampowered.com/app/1121640/The_Wandering_Village/)                                                                                                                        |
 | [The Witness](https://store.steampowered.com/app/210970/The_Witness/)                                                                                                                                             |
+| [The Zone - FPV Drone Simulator](https://store.steampowered.com/app/3491280/The_Zone__FPV_Drone_Simulator/)                                                                                                       |
 | [They Are Billions](https://store.steampowered.com/app/644930/They_Are_Billions/)                                                                                                                                 |
 | [Thumper](https://store.steampowered.com/app/356400/Thumper/)                                                                                                                                                     |
 | [Tom Clancy's Rainbow Six® Siege](https://store.steampowered.com/app/359550/Tom_Clancys_Rainbow_Six_Siege/)                                                                                                       |
