@@ -83,66 +83,53 @@ ________________________________________________________
 | Drawing as a physics experiment.                                                                                         | https://cpreid2.github.io/blobSketch/                       |
 | Online Omnichord.                                                                                                        | https://onlineomnichord.com/                                |
 ### Games:
-| Title:                                                                                                                                    |
-| ----------------------------------------------------------------------------------------------------------------------------------------- |
-| [Arcane Kids Games](https://arcanekids.com/)                                                                                              |
-| [ARKANOID - ETERNAL BATTLE](https://www.nintendo.com/us/store/products/arkanoid-eternal-battle-switch/)                                   |
-| [Arkanoid: Doh It Again](https://en.wikipedia.org/wiki/Arkanoid:_Doh_It_Again)                                                            |
-| [ASTRONEER](https://www.nintendo.com/us/store/products/astroneer-switch/)                                                                 |
-| [Balatro](https://www.nintendo.com/us/store/products/balatro-switch/)                                                                     |
-| [BetterGH3](https://youtu.be/RWRoxHwAM9E?si=zMVinZEfZ16CI4j5)                                                                             |
-| [Clone Hero](https://clonehero.net/)                                                                                                      |
-| [Crackdown](https://www.xbox.com/en-US/games/store/crackdown/c3vnjhhd7mm4)                                                                |
-| [Crossover Collab - A mod for Celeste](https://gamebanana.com/mods/637482)                                                                |
-| [DEMON'S TILT](https://www.nintendo.com/us/store/products/demons-tilt-switch/)                                                            |
-| [Don't Starve: Nintendo Switch Edition](https://www.nintendo.com/us/store/products/dont-starve-nintendo-switch-edition-switch/)           |
-| [Fivem](https://fivem.net/)                                                                                                               |
-| [Floating Sandbox](https://floatingsandbox.com/)                                                                                          |
-| [Friday Night Funkin'](https://github.com/FunkinCrew/Funkin)                                                                              |
-| [Futurama: Hit & Run](https://modbakery.donutteam.com/projects/view/48)                                                                   |
-| [GoldenEye: Source](https://www.geshl2.com/)                                                                                              |
-| [Graveyard Keeper](https://www.nintendo.com/us/store/products/graveyard-keeper-switch/)                                                   |
-| [GTA Connected](https://gtaconnected.com/)                                                                                                |
-| [Guitar Hero World Tour: Definitive Edition](https://ghwt.de/)                                                                            |
-| [I wanna be the boshy](https://delicious-fruit.com/ratings/game_details.php?id=11890)                                                     |
-| [Into the Breach](https://www.nintendo.com/us/store/products/into-the-breach-switch/)                                                     |
-| [JSRFMP](https://gamejolt.com/games/JSRFMP/336004)                                                                                        |
-| [Juice Galaxy](https://fishlicka.itch.io/juice-galaxy)                                                                                    |
-| [KORG Gadget](https://www.nintendo.com/us/store/products/korg-gadget-for-nintendo-switch-switch/)                                         |
-| [Mindustry](https://mindustrygame.github.io/)                                                                                             |
-| [Nuclear Throne](https://www.nintendo.com/us/store/products/nuclear-throne-switch/)                                                       |
-| [Plutonium](https://plutonium.pw/)                                                                                                        |
-| [PokeMMO](https://pokemmo.com/en/)                                                                                                        |
-| [Poptropica Legacy](https://andrewwiles.itch.io/poptropica-legacy)                                                                        |
-| [PT Emulation 1.4](https://www.mediafire.com/file/64vmpecbawu0sll/P.T._Emulation_1.4.rar/file)                                            |
-| [RavenM](https://github.com/iliadsh/RavenM)                                                                                               |
-| [reTHAWed](https://rethawed.com/)                                                                                                         |
-| [Risk of Rain 2: Alloyed Collective](https://www.nintendo.com/us/store/products/risk-of-rain-2-alloyed-collective-70050000046865-switch/) |
-| [Roblox](https://www.roblox.com/)                                                                                                         |
-| [RuneLite](https://runelite.net/)                                                                                                         |
-| [Scribblenauts Mega Pack](https://www.nintendo.com/us/store/products/scribblenauts-mega-pack-switch/)                                     |
-| [Shy Guy Surfing](https://lucaspucas.itch.io/shy-guy-surfing)                                                                             |
-| [SK8MOD](https://sk8mod.com/)                                                                                                             |
-| [Skate 3](https://www.ea.com/games/skate/skate-3)                                                                                         |
-| [Super Mario Bros Remastered](https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public)                                           |
-| [Super Mario Wonder](https://supermariobroswonder.nintendo.com/)                                                                          |
-| [TF2 Classic](https://tf2classic.com/)                                                                                                    |
-| [The Escapists Reincarcerated](https://github.com/iliketurtles14/ter-repo)                                                                |
-| [The Legend of Zelda: Dungeons of Infinity](https://justinbohemier.wixsite.com/portfolio/game-design)                                     |
-| [The Powder Toy](https://github.com/The-Powder-Toy/The-Powder-Toy)                                                                        |
-| [The Survivalists](https://www.nintendo.com/us/store/products/the-survivalists-switch/)                                                   |
-| [The Tower of Druaga](https://en.wikipedia.org/wiki/The_Tower_of_Druaga)                                                                  |
-| [THUG 1](https://en.wikipedia.org/wiki/Tony_Hawk%27s_Underground)                                                                         |
-| [THUG 2](https://tonyhawkgames.fandom.com/wiki/Tony_Hawk%27s_Underground_2)                                                               |
-| [Tomb Fetus](https://pyspy.neocities.org/tf/)                                                                                             |
-| [Townscaper](https://www.nintendo.com/us/store/products/townscaper-switch/)                                                               |
-| [Undertale Yellow](https://gamejolt.com/games/UndertaleYellow/136925)                                                                     |
-| [Unreal PT](https://lutris.net/games/unreal-pt/)                                                                                          |
-| [Vampire Survivors](https://www.nintendo.com/us/store/products/vampire-survivors-switch/)                                                 |
-| [Veloren](https://veloren.net/)                                                                                                           |
-| [Vintage Story](https://www.vintagestory.at/)                                                                                             |
-| [Voices of the Void](https://mrdrnose.itch.io/votv)                                                                                       |
-| [Zelda TOTK](https://zelda.nintendo.com/tears-of-the-kingdom/)                                                                            |
+| Title:                                                                                                |
+| ----------------------------------------------------------------------------------------------------- |
+| [Arcane Kids Games](https://arcanekids.com/)                                                          |
+| [Arkanoid: Doh It Again](https://en.wikipedia.org/wiki/Arkanoid:_Doh_It_Again)                        |
+| [BetterGH3](https://youtu.be/RWRoxHwAM9E)                                                             |
+| [Clone Hero](https://clonehero.net/)                                                                  |
+| [Crackdown](https://www.xbox.com/en-US/games/store/crackdown/c3vnjhhd7mm4)                            |
+| [Crossover Collab - A mod for Celeste](https://gamebanana.com/mods/637482)                            |
+| [Fivem](https://fivem.net/)                                                                           |
+| [Floating Sandbox](https://floatingsandbox.com/)                                                      |
+| [Friday Night Funkin'](https://github.com/FunkinCrew/Funkin)                                          |
+| [Futurama: Hit & Run](https://modbakery.donutteam.com/projects/view/48)                               |
+| [GoldenEye: Source](https://www.geshl2.com/)                                                          |
+| [GTA Connected](https://gtaconnected.com/)                                                            |
+| [Guitar Hero World Tour: Definitive Edition](https://ghwt.de/)                                        |
+| [I wanna be the boshy](https://delicious-fruit.com/ratings/game_details.php?id=11890)                 |
+| [JSRFMP](https://gamejolt.com/games/JSRFMP/336004)                                                    |
+| [Juice Galaxy](https://fishlicka.itch.io/juice-galaxy)                                                |
+| [Kitten Space Agency](https://ahwoo.com/app/100000/kitten-space-agency)                               |
+| [Mindustry](https://mindustrygame.github.io/)                                                         |
+| [Plutonium](https://plutonium.pw/)                                                                    |
+| [PokeMMO](https://pokemmo.com/en/)                                                                    |
+| [Poptropica Legacy](https://andrewwiles.itch.io/poptropica-legacy)                                    |
+| [PT Emulation 1.4](https://www.mediafire.com/file/64vmpecbawu0sll/P.T._Emulation_1.4.rar/file)        |
+| [RavenM](https://github.com/iliadsh/RavenM)                                                           |
+| [reTHAWed](https://rethawed.com/)                                                                     |
+| [Roblox](https://www.roblox.com/)                                                                     |
+| [RuneLite](https://runelite.net/)                                                                     |
+| [Shy Guy Surfing](https://lucaspucas.itch.io/shy-guy-surfing)                                         |
+| [SimAnt](https://en.wikipedia.org/wiki/SimAnt)                                                        |
+| [SK8MOD](https://sk8mod.com/)                                                                         |
+| [Skate 3](https://www.ea.com/games/skate/skate-3)                                                     |
+| [Super Mario Bros Remastered](https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public)       |
+| [TF2 Classic](https://tf2classic.com/)                                                                |
+| [The Escapists Reincarcerated](https://github.com/iliketurtles14/ter-repo)                            |
+| [The Legend of Zelda: Dungeons of Infinity](https://justinbohemier.wixsite.com/portfolio/game-design) |
+| [The Powder Toy](https://github.com/The-Powder-Toy/The-Powder-Toy)                                    |
+| [The Tower of Druaga](https://en.wikipedia.org/wiki/The_Tower_of_Druaga)                              |
+| [THUG 1](https://en.wikipedia.org/wiki/Tony_Hawk%27s_Underground)                                     |
+| [THUG 2](https://tonyhawkgames.fandom.com/wiki/Tony_Hawk%27s_Underground_2)                           |
+| [Tomb Fetus](https://pyspy.neocities.org/tf/)                                                         |
+| [Undertale Yellow](https://gamejolt.com/games/UndertaleYellow/136925)                                 |
+| [Unreal PT](https://lutris.net/games/unreal-pt/)                                                      |
+| [Veloren](https://veloren.net/)                                                                       |
+| [Vintage Story](https://www.vintagestory.at/)                                                         |
+| [Voices of the Void](https://mrdrnose.itch.io/votv)                                                   |
+
 ### Gaming:
 | Description:                                                                                                    | Website(s):                                                                                                                                                                                                                                                                                                                                                                                         |
 | --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -167,7 +154,7 @@ ________________________________________________________
 | RPG tools.                                                                                                      | https://donjon.bin.sh/                                                                                                                                                                                                                                                                                                                                                                              |
 | First Person Outlines for Team Fortress 2 weapons.                                                              | https://gamebanana.com/wips/49156                                                                                                                                                                                                                                                                                                                                                                   |
 | Nintendo Switch price tracking & wishlist notifications.                                                        | https://www.dekudeals.com/                                                                                                                                                                                                                                                                                                                                                                          |
-| Animal Crossing resources.                                                                                      | https://eugeneration.github.io/HappyIslandDesigner/<br>https://turnipprophet.io/<br>https://wuffs.org/acnh/weather/<br>https://nookipedia.com/wiki/Main_Page<br>                                                                                                                                                                                                                                    |
+| Animal Crossing resources.                                                                                      | https://eugeneration.github.io/HappyIslandDesigner/<br>https://turnipprophet.io/<br>https://wuffs.org/acnh/weather/<br>https://nookipedia.com/wiki/Main_Page<br>https://www.gamespot.com/articles/animal-crossing-turnips-guide-buy-sell-and-store-turnips/1100-6475474/<br>https://animalcrossingworld.com/guides/new-horizons/jolly-redds-art-real-genuine-vs-fake-forgery-cheat-sheet/           |
 | Dwarf Fortress resources.                                                                                       | https://www.bay12games.com/dwarves/<br>https://github.com/Dwarf-Therapist/Dwarf-Therapist<br>https://github.com/DFHack/dfhack<br>https://dwarffortresswiki.org<br>https://askubuntu.com/questions/815767/issues-installing-dwarf-fortress-libsdl-ttf-2-0-so-0-not-found                                                                                                                             |
 | Archiving & preserving video game media.                                                                        | https://sounds.spriters-resource.com/                                                                                                                                                                                                                                                                                                                                                               |
 | Find/join gaming sessions for dead games, niche mods, & retro netplay, or schedule your own. No account needed. | https://gamedate.org/                                                                                                                                                                                                                                                                                                                                                                               |
@@ -298,6 +285,8 @@ ________________________________________________________
 | Audio cheat sheets.                                                                                                  | https://blog.programster.org/audio-cli-cheatsheet<br>https://gist.github.com/afondiel/4e863c2f5af5ca566a33314b97e524d7/b3cb06722856d4fbce83d50b3ff6e502a2093083                                                                                                                                                                                                                                    |
 | Journalctl cheat sheet.                                                                                              | https://gist.github.com/sergeyklay/f401dbc8286f732783e05072f03ecb61                                                                                                                                                                                                                                                                                                                                |
 | Why don't I see any KVM domains when I run virsh through ssh?<br><br>Cannot execute Virsh command through SSH.       | https://unix.stackexchange.com/questions/732254/why-dont-i-see-any-kvm-domains-when-i-run-virsh-through-ssh/732255#732255<br>https://askubuntu.com/questions/1066230/cannot-execute-virsh-command-through-ssh-on-ubuntu-18-04/1067050#1067050                                                                                                                                                      |
+| While loop in bash.<br><br>While loop to test if a file exists.<br><br>Wait until a file exists.                     | https://stackoverflow.com/questions/32207604/how-to-use-while-loop-in-bash<br>https://stackoverflow.com/a/2379904<br>https://blog.marcnuri.com/bash-how-to-wait-until-file-exists                                                                                                                                                                                                                  |
+| List only files & not directories of a directory.                                                                    | https://stackoverflow.com/a/46135507                                                                                                                                                                                                                                                                                                                                                               |
 ### Lists:
 | Description:                                                                  | Website(s):                                                                                                                                                                                                                                      |
 | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -339,6 +328,8 @@ ________________________________________________________
 | Complete list of iOS settings app url schemes. | https://github.com/1mehdifaraji/ios-settings-url-schemes            |
 | GTK CSS properties.                            | https://docs.gtk.org/gtk3/css-properties.html                       |
 | Subtitle color palette.                        | https://www.color-hex.com/color-palette/1033349                     |
+| writerDeck.                                    | https://www.writerdeck.org/                                         |
+| Apple marketing resources.                     | https://github.com/extratone/bezels                                 |
 ### Picture:
 | Description:                                                                                               | Website(s):                                                                                |
 | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
@@ -396,17 +387,18 @@ ________________________________________________________
 | ----------------------------- | ---------------------- |
 | View 3D Models interactively. | https://sketchfab.com/ |
 ### Shopping:
-| Description:                                                                                     | Website(s):                                           |
-| ------------------------------------------------------------------------------------------------ | ----------------------------------------------------- |
-| Provides part selection, pricing, & compatibility guidance for do-it-yourself computer builders. | https://pcpartpicker.com/                             |
-| Helps you choose parts for your PC.                                                              | https://www.logicalincrements.com/                    |
-| Controllers & accessories.                                                                       | https://www.8bitdo.com/                               |
-| Hardware-software solution intended for diagnosing & repairing HDDs.                             | https://www.acelab.eu.com/pc3000.udma.php             |
-| Privacy-respecting, open source & secure TV ecosystem.                                           | https://plasma-bigscreen.org/                         |
-| Redeem My Nintendo Platinum Points.                                                              | https://www.nintendo.com/us/store/exclusives/rewards/ |
-| Open Printer: Open-source, repairable inkjet printer.                                            | https://www.crowdsupply.com/open-tools/open-printer   |
-| Compare internet & TV deals.                                                                     | https://www.providercheck.net/                        |
-| Find out where to watch movies/shows.                                                            | https://www.justwatch.com/us                          |
+| Description:                                                                                     | Website(s):                                              |
+| ------------------------------------------------------------------------------------------------ | -------------------------------------------------------- |
+| Provides part selection, pricing, & compatibility guidance for do-it-yourself computer builders. | https://pcpartpicker.com/                                |
+| Helps you choose parts for your PC.                                                              | https://www.logicalincrements.com/                       |
+| Controllers & accessories.                                                                       | https://www.8bitdo.com/                                  |
+| Hardware-software solution intended for diagnosing & repairing HDDs.                             | https://www.acelab.eu.com/pc3000.udma.php                |
+| Privacy-respecting, open source & secure TV ecosystem.                                           | https://plasma-bigscreen.org/                            |
+| Redeem My Nintendo Platinum Points.                                                              | https://www.nintendo.com/us/store/exclusives/rewards/    |
+| Open Printer: Open-source, repairable inkjet printer.                                            | https://www.crowdsupply.com/open-tools/open-printer      |
+| Compare internet & TV deals.                                                                     | https://www.providercheck.net/                           |
+| Find out where to watch movies/shows.                                                            | https://www.justwatch.com/us                             |
+| TraumaGotchu \| The Virtual Pet with Baggage.                                                    | https://www.kickstarter.com/projects/tglabs/traumagotchu |
 ### Social:
 | Description:                                 | Website(s):                     |
 | -------------------------------------------- | ------------------------------- |
@@ -414,33 +406,34 @@ ________________________________________________________
 | Lookup & convert your steamID.               | https://steamid.io/lookup/      |
 | Unofficial Discord lookup tool.              | https://discord.id/             |
 ### Tools:
-| Description:                                                                 | Website(s):                                                                        |
-| ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| Get metadata from a YouTube URL.                                             | https://mattw.io/youtube-metadata/                                                 |
-| Unsubscribe from all YouTube channels script.                                | https://www.howtogeek.com/unsubscribe-from-all-youtube-channels-in-one-go/         |
-| Export your YouTube playlist data to CSV file.                               | https://jolantahuba.github.io/YT-Backup/                                           |
-| A tool to help you visualize privacy policies.                               | https://rejectconvenience.com/privacy-visualizer/                                  |
-| Create, fill, & sign digital documents.                                      | https://www.docuseal.com/                                                          |
-| Create a bibliography in any citation style.                                 | https://zbib.org/                                                                  |
-| Shows all the plugins used in a Ableton .als file.                           | https://www.pluginhell.io/                                                         |
-| A simple way to share Jupyter Notebooks.                                     | https://nbviewer.org/                                                              |
-| Various tools.                                                               | https://tools-unite.com/tools                                                      |
-| Generate common FFmpeg command-line operations.                              | https://alfg.github.io/ffmpeg-commander/                                           |
-| Compare & find the difference between two text files.                        | https://www.diffchecker.com/                                                       |
-| Minimalist text editor that lives in URL.                                    | https://textarea.my/                                                               |
-| OKLCH color picker.                                                          | https://oklch.com/                                                                 |
-| android.graphics.Color color picker.                                         | https://encycolorpedia.com/606060                                                  |
-| Random object generator.                                                     | https://perchance.org/object                                                       |
-| Simulate arduinos, integrated circuits, capacitors, transistors & much more. | https://www.withdiode.com/                                                         |
-| Full-screen simulation & visual tool.                                        | https://www.whitescreen.online/                                                    |
-| Find YouTube videos uploaded during a certain time.                          | https://dross.cc/yttimemachine/                                                    |
-| Generate unique, scanable SVG barcodes.                                      | https://barkod.studio/                                                             |
-| Convert a temperature in Kelvin into a RGB colour.                           | https://academo.org/demos/colour-temperature-relationship/                         |
-| Collection of small tools.                                                   | https://tools.rmv.fyi/                                                             |
-| Type any quote, watch the scenes.                                            | https://www.playphrase.me/                                                         |
-| Truly universal online file converter.                                       | https://p2r3.github.io/convert/                                                    |
-| ARGB color converter.                                                        | https://www.myfixguide.com/color-converter/                                        |
-| Virtual whiteboard for sketching hand-drawn like diagrams.                   | https://excalidraw.com/<br>https://github.com/zsviczian/obsidian-excalidraw-plugin |
+| Description:                                                                                     | Website(s):                                                                        |
+| ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- |
+| Get metadata from a YouTube URL.                                                                 | https://mattw.io/youtube-metadata/                                                 |
+| Unsubscribe from all YouTube channels script.                                                    | https://www.howtogeek.com/unsubscribe-from-all-youtube-channels-in-one-go/         |
+| Export your YouTube playlist data to CSV file.                                                   | https://jolantahuba.github.io/YT-Backup/                                           |
+| A tool to help you visualize privacy policies.                                                   | https://rejectconvenience.com/privacy-visualizer/                                  |
+| Create, fill, & sign digital documents.                                                          | https://www.docuseal.com/                                                          |
+| Create a bibliography in any citation style.                                                     | https://zbib.org/                                                                  |
+| Shows all the plugins used in a Ableton .als file.                                               | https://www.pluginhell.io/                                                         |
+| A simple way to share Jupyter Notebooks.                                                         | https://nbviewer.org/                                                              |
+| Various tools.                                                                                   | https://tools-unite.com/tools                                                      |
+| Generate common FFmpeg command-line operations.                                                  | https://alfg.github.io/ffmpeg-commander/                                           |
+| Compare & find the difference between two text files.                                            | https://www.diffchecker.com/                                                       |
+| Minimalist text editor that lives in URL.                                                        | https://textarea.my/                                                               |
+| OKLCH color picker.                                                                              | https://oklch.com/                                                                 |
+| android.graphics.Color color picker.                                                             | https://encycolorpedia.com/606060                                                  |
+| Random object generator.                                                                         | https://perchance.org/object                                                       |
+| Simulate arduinos, integrated circuits, capacitors, transistors & much more.                     | https://www.withdiode.com/                                                         |
+| Full-screen simulation & visual tool.                                                            | https://www.whitescreen.online/                                                    |
+| Find YouTube videos uploaded during a certain time.                                              | https://dross.cc/yttimemachine/                                                    |
+| Generate unique, scanable SVG barcodes.                                                          | https://barkod.studio/                                                             |
+| Convert a temperature in Kelvin into a RGB colour.                                               | https://academo.org/demos/colour-temperature-relationship/                         |
+| Collection of small tools.                                                                       | https://tools.rmv.fyi/                                                             |
+| Type any quote, watch the scenes.                                                                | https://www.playphrase.me/                                                         |
+| Truly universal online file converter.                                                           | https://p2r3.github.io/convert/                                                    |
+| ARGB color converter.                                                                            | https://www.myfixguide.com/color-converter/                                        |
+| Virtual whiteboard for sketching hand-drawn like diagrams.                                       | https://excalidraw.com/<br>https://github.com/zsviczian/obsidian-excalidraw-plugin |
+| Frame your iPhone, iPad, & Apple Watch screenshots in beautiful, realistic Apple device mockups. | https://www.appleframer.com/                                                       |
 ### Tutorials:
 | Description:                                                     | Website(s):                                                                                                                                                                                                                                                  |
 | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
